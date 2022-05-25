@@ -7,6 +7,8 @@
   {% include /analytics-providers/google-universal.html %}
 {% when "custom" %}
   {% include /analytics-providers/custom.html %}
+{% when "gtag" %}
+  {% include /analytics-providers/gtag.js %}
 {% endcase %}
 
 {% endif %}
