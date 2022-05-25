@@ -76,10 +76,16 @@ social:
 
 
 #Analytics
+# analytics:
+  # provider               :  "google-universal", "gtag" # false (default), "google", "google-universal", "custom"
+  # google:
+    # tracking_id          : "UA-158054044-1", "G-VZWM3TK8MP"
+    
+#Analytics
 analytics:
-  provider               :  "google-universal", "gtag" # false (default), "google", "google-universal", "custom"
+  provider               :  "gtag" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          : "UA-158054044-1", "G-VZWM3TK8MP"
+    tracking_id          :  "G-VZWM3TK8MP"
 
 
 # Site Author
