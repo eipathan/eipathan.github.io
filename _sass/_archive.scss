@@ -60,11 +60,11 @@
 
 .archive__item-excerpt {
   margin-top: 0;
-  align-content: justify;
   font-size: $type-size-6;
 
   & + p {
     text-indent: 0;
+    text-align: justify;
   }
 }
 
