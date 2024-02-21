@@ -10,14 +10,16 @@ redirect_from:
 
 <p style="text-align: justify">
 I completed my postdoctoral research fellowship in 2020 at the <a href="https://s3d.cmu.edu/">Software and Societal Systems Department</a> (formerly Institute for Software Research) in the <a href="https://www.scs.cmu.edu/">School of Computer Science</a> at Carnegie Mellon University in Pittsburgh, PA, USA, where I was advised by <a href="https://herbsleb.org/">James Herbsleb</a>, after receiving a Ph.D in Information Science and a M.Sc. in Information Systems in 2016 and 2009 respectively from the <a href="https://www.ntu.edu.sg/">Nanyang Technological University</a> in Singapore where I was mainly affiliated with the <a href="https://www.ntu.edu.sg/wkwsci/">Wee Kim Wee School of Communication and Information</a>, and a BSc (Hons.) in Computer Science from the University of Computer Studies in Yangon, Myanmar.
+<p>
 
 <!-- I'm a former postdoctoral research fellow of the <a href="https://s3d.cmu.edu/">Software and Societal Systems Department (formerly Institute for Software Research)</a> in the <a href="https://www.scs.cmu.edu/">School of Computer Science</a> at <a href="https://www.cmu.edu/">Carnegie Mellon University</a> in Pittsburgh, Pennsylvania, USA, where I'm advised by <a href="https://herbsleb.org/">James Herbsleb</a>. -->
-<br>
+<p>
 Prior to joining CMU, I was a research associate and adjunct lecturer from 2015 to 2016 at the Nanyang Technological University where I taught information visualization and managing information systems to undergraduates and graduates, which was preceded by a 13-month job of applications consultant at <a href="https://www.ncs.co/en-sg/">NCS Pte Ltd</a> in Singapore, where I involved in a healthcare project--the maintenance of a web-based outpatient administrative system particularly on the accounting module, developed using Microsoft C#, .NET framework and SQL server, and deployed in a network of hospitals, speciality centers, and polyclinics under SingHealth, and developed a new tool that solicits patients' feedback and complaints. Before Singapore, I spent 18 months at the Software Department of the Univeristy of Computer Studies (Yangon) as a trainee tutor where I taught the undergraduates the fundamentals of data structures and a few lectures on operating systems.
+</p>
 
 <!-- My reseach investigates how collaboration and coordination unfolds in work teams in time-bounded events, for example, hackathons for education, entrepreneurship, and community building in various organizational settings, and devises practises and guidelines to shape the team work for better outcomes.-->
 
-<br>
+<p>
 See my <a href="https://epppt.github.io/files/eipa-cv.pdf">CV</a> for details.
 </p>
 
