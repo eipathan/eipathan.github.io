@@ -7,7 +7,12 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<div vertical-align="middle">
+DIV.container {
+    min-height: 10em;
+    display: table-cell;
+    vertical-align: middle }
+
+<div class="container">
     <h1>
         Hi, I'm Ei Pa Pa Pe Than.
     </h1>
@@ -16,9 +21,11 @@ redirect_from:
     I'm a former postdoctoral research fellow of the <a href="https://s3d.cmu.edu/">Software and Societal Systems Department (formerly Institute for Software Research)</a> in the <a href="https://www.scs.cmu.edu/">School of Computer Science</a> at <a href="https://www.cmu.edu/">Carnegie Mellon University</a> in Pittsburgh, Pennsylvania, USA, where I'm advised by <a href="https://herbsleb.org/">James Herbsleb</a>. My reseach investigates how collaboration and coordination unfolds in work teams in time-bounded events, for example, hackathons for education, entrepreneurship, and community building in various organizational settings, and devises practises and guidelines to shape the team work for better outcomes.
     </p>
 
-    <h1>
-        Download my <a href="https://epppt.github.io/files/eipa-cv.pdf">CV</a> here.
-    </h1> 
+    <p style="text-align: center">
+        <h3>
+            Download my <a href="https://epppt.github.io/files/eipa-cv.pdf">CV</a> here.
+        </h3> 
+    </p>
 </div>
 
 <!--
