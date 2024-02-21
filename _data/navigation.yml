@@ -6,17 +6,17 @@ main:
   - title: "Research"
     url: /research/
 
-  - title: "Publications"
-    url: /publications/
-
-  - title: "CV"
-    url: /cv/
-
   - title: "Teaching"
     url: /teaching/
 
-  - title: "Hackathon Planning Kit"
-    url: "https://hackathon-planning-kit.org/"
+  - title: "Publications"
+    url: /publications/
 
-  - title: "Contact"
-    url: /contact/
+  #- title: "CV"
+  # url: /cv/
+
+  #- title: "Hackathon Planning Kit"
+  #  url: "https://hackathon-planning-kit.org/"
+
+  #- title: "Contact"
+  #  url: /contact/
