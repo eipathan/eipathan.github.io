@@ -13,7 +13,6 @@ My research aims at contributing to the therory of coordination with a particula
 
 <p style="text-align: justify">
 Recently, much of my work has focused on large scale coordination in the development of software and non-software artifacts:
-</p>
 <br>
 (a)&nbsp;<b>in time-bounded events for software development (known as hackathons)</b> where small teams work over a specified period to complete a project of interest. My work particularly looks into how such events are organized, what the hackathon teams do, and what outcomes they produce, observing the pre-existing and newly-formed teams in the 2017 Micorsoft OneWeek Hackathon, and co-organizing and studying a series of hackathons with the teams of Hubble Space telescope at the Space Telescope Sciecne Institute (STScI). Based on our experience of organizing and studying multiple hackathons, we developed a <a href="https://hackathon-planning-kit.org/">hackathon planning kit</a> for potential hackathon organizers.
 <br>
