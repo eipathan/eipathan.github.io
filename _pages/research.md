@@ -5,6 +5,8 @@ author_profile: true
 permalink: /research/
 ---
 
+{% include base_path %}
+
 <p style="text-align: justify"><!--<u><b>RESEARCH</b></u>.-->
     My research aims at contributing to the coordination theory with a particular focus on the effective and efficient dissemination and coordination of work in an open connected network of mobile networks, each either “adapting” digital artifacts for independent missions or producing work “perfecting” the original digital artifact. Central to this research effort is the socio-technical challenge of the understanding of how coordination unfolds in such a highly connected network of networks, and how and why humans navigate and make decisions in such a setting. This multidisciplinary research topic overlaps the fields of computer science, psychology, applied mathematics and statistics, economics and management science, and has many applications in areas including astronomy, medicine, robotics, and cyber security, crisis management, and collaborative writing.</p>
 
