@@ -13,13 +13,13 @@ I completed my postdoctoral research fellowship in 2020 at the <a href="https://
 <p>
 
 <!-- I'm a former postdoctoral research fellow of the <a href="https://s3d.cmu.edu/">Software and Societal Systems Department (formerly Institute for Software Research)</a> in the <a href="https://www.scs.cmu.edu/">School of Computer Science</a> at <a href="https://www.cmu.edu/">Carnegie Mellon University</a> in Pittsburgh, Pennsylvania, USA, where I'm advised by <a href="https://herbsleb.org/">James Herbsleb</a>. -->
-<p>
-Prior to joining CMU, I was a research associate and adjunct lecturer from 2015 to 2016 at the Nanyang Technological University where I taught information visualization and managing information systems to undergraduates and graduates, which was preceded by a 13-month job of applications consultant at <a href="https://www.ncs.co/en-sg/">NCS Pte Ltd</a> in Singapore, where I involved in a healthcare project--the maintenance of a web-based outpatient administrative system particularly on the accounting module, developed using Microsoft C#, .NET framework and SQL server, and deployed in a network of hospitals, speciality centers, and polyclinics under SingHealth, and developed a new tool that solicits patients' feedback and complaints. Before Singapore, I spent 18 months at the Software Department of the Univeristy of Computer Studies (Yangon) as a trainee tutor where I taught the undergraduates the fundamentals of data structures and a few lectures on operating systems.
+<p style="text-align: justify">
+Prior to joining CMU, I was a research associate and adjunct lecturer from 2015 to 2016 at the Nanyang Technological University where I taught information visualization and managing information systems to undergraduates and graduates, which was preceded by a 13-month job of applications consultant at <a href="https://www.ncs.co/en-sg/">NCS Pte Ltd</a> in Singapore, where I involved in a healthcare project -- the maintenance of a web-based outpatient administrative system particularly on the accounting module, developed using Microsoft C#, .NET framework and SQL server, and deployed in a network of hospitals, speciality centers, and polyclinics under SingHealth, and developed a new tool that solicits patients' feedback and complaints. Before Singapore, I spent 18 months at the Software Department of the Univeristy of Computer Studies (Yangon) as a trainee tutor where I taught the undergraduates the fundamentals of data structures and a few lectures on operating systems.
 </p>
 
 <!-- My reseach investigates how collaboration and coordination unfolds in work teams in time-bounded events, for example, hackathons for education, entrepreneurship, and community building in various organizational settings, and devises practises and guidelines to shape the team work for better outcomes.-->
 
-<p>
+<p style="text-align: justify">
 See my <a href="https://epppt.github.io/files/eipa-cv.pdf">CV</a> for details.
 </p>
 
