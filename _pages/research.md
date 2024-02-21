@@ -1,5 +1,4 @@
 ---
-layout: archive
 title: "Research"
 excerpt: "research"
 author_profile: true
