@@ -9,10 +9,12 @@ permalink: /activities/
 
 <p>
 <h2 class="western">Organizing</h2>
-Organizer, Internal hackathons with Hubble Space Telescope team at Space Telescope Science Institute (STScI), Baltimore, MA, USA (2018–2019) <br />
-Organizer, World of Code (WoC) Hackathon, Carnegie Mellon University (2019) <br />
-Organizer, Science Gateways Hackathon by the Science Gateways Community Institute (SGCI), collocated with PEARC18 Conference, Wyndham Grand Pittsburgh (2018) <br />
-Organizer, The 2nd Workshop on Hacking and Making at Time-Bounded Events: Current Trends and Next Steps in Research and Event Design, ACM CHI'18 conference, Montreal, Canada (2018) <br />
+<ul>
+    <li>Internal hackathons with Hubble Space Telescope team at <a href="https://www.stsci.edu/home">Space Telescope Science Institute (STScI)</a>, Baltimore, MA, USA (2018–2019)</li>
+    <li><a href="https://github.com/woc-hack">World of Code (WoC) Hackathon</a>, Carnegie Mellon University (2019)</li>
+    <li><a href="http://hackhpc.org/pasthacks/#pearc18">Science Gateways Hackathon</a> by the Science Gateways Community Institute (SGCI), collocated with PEARC18 Conference, Wyndham Grand Pittsburgh (2018)</li>
+    <li>The 2nd Workshop on Hacking and Making at Time-Bounded Events: Current Trends and Next Steps in Research and Event Design, ACM CHI'18 conference, Montreal, Canada (2018)</li>
+</ul>
 </p>
 
 <p>
