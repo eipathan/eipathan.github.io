@@ -1,32 +1,27 @@
 ---
 permalink: /
-# title: "Hi, I'm Ei Pa Pa Pe Than."
+title: "Hi, I'm Ei Pa Pa Pe Than."
 excerpt: "About me"
 author_profile: true
 redirect_from:
   - /about/
   - /about.html
 ---
-DIV.container {
-    min-height: 10em;
-    display: table-cell;
-    vertical-align: middle }
 
-<div class="container">
-    <h1>
-        Hi, I'm Ei Pa Pa Pe Than.
-    </h1>
-    <br>
-    <p style="text-align: justify">
-    I'm a former postdoctoral research fellow of the <a href="https://s3d.cmu.edu/">Software and Societal Systems Department (formerly Institute for Software Research)</a> in the <a href="https://www.scs.cmu.edu/">School of Computer Science</a> at <a href="https://www.cmu.edu/">Carnegie Mellon University</a> in Pittsburgh, Pennsylvania, USA, where I'm advised by <a href="https://herbsleb.org/">James Herbsleb</a>. My reseach investigates how collaboration and coordination unfolds in work teams in time-bounded events, for example, hackathons for education, entrepreneurship, and community building in various organizational settings, and devises practises and guidelines to shape the team work for better outcomes.
-    </p>
+<p style="text-align: justify">
+I completed my postdoctoral research fellowship in 2020 at the <a href="https://s3d.cmu.edu/">Software and Societal Systems Department</a> (formerly Institute for Software Research) in the <a href="https://www.scs.cmu.edu/">School of Computer Science</a> at Carnegie Mellon University in Pittsburgh, PA, USA, where I was advised by <a href="https://herbsleb.org/">James Herbsleb</a>, after receiving a Ph.D in Information Science and a M.Sc. in Information Systems in 2016 and 2009 respectively from the <a href="https://www.ntu.edu.sg/">Nanyang Technological University</a> in Singapore where I was mainly affiliated with the <a href="https://www.ntu.edu.sg/wkwsci/">Wee Kim Wee School of Communication and Information</a>, and a BSc (Hons.) in Computer Science from the University of Computer Studies in Yangon, Myanmar.
 
-    <p style="text-align: center">
-        <h3>
-            Download my <a href="https://epppt.github.io/files/eipa-cv.pdf">CV</a> here.
-        </h3> 
-    </p>
-</div>
+<!-- I'm a former postdoctoral research fellow of the <a href="https://s3d.cmu.edu/">Software and Societal Systems Department (formerly Institute for Software Research)</a> in the <a href="https://www.scs.cmu.edu/">School of Computer Science</a> at <a href="https://www.cmu.edu/">Carnegie Mellon University</a> in Pittsburgh, Pennsylvania, USA, where I'm advised by <a href="https://herbsleb.org/">James Herbsleb</a>. -->
+
+Prior to joining CMU, I was a research associate and adjunct lecturer from 2015 to 2016 at the Nanyang Technological University where I taught information visualization and managing information systems to undergraduates and graduates, which was preceded by a 13-month job of applications consultant at <a href="https://www.ncs.co/en-sg/">NCS Pte Ltd</a> in Singapore, where I involved in a healthcare project--the maintenance of a web-based outpatient administrative system particularly on the accounting module, developed using Microsoft C#, .NET framework and SQL server, and deployed in a network of hospitals, speciality centers, and polyclinics under SingHealth, and developed a new tool that solicits patients' feedback and complaints. Before Singapore, I spent 18 months at the Software Department of the Univeristy of Computer Studies (Yangon) as a trainee tutor where I taught the undergraduates the fundamentals of data structures and a few lectures on operating systems.
+
+<!-- My reseach investigates how collaboration and coordination unfolds in work teams in time-bounded events, for example, hackathons for education, entrepreneurship, and community building in various organizational settings, and devises practises and guidelines to shape the team work for better outcomes.-->
+</p>
+
+<p style="text-align: center">
+See my <a href="https://epppt.github.io/files/eipa-cv.pdf">CV</a> for details.
+</p>
+
 
 <!--
 <p style="text-align: justify"><u><b>RESEARCH</b></u>. My research aims at contributing to the coordination theory with a particular focus on the effective and efficient dissemination and coordination of work in an open connected network of mobile networks, each either “adapting” digital artifacts for independent missions or producing work “perfecting” the original digital artifact. Central to this research effort is the socio-technical challenge of the understanding of how coordination unfolds in such a highly connected network of networks, and how and why humans navigate and make decisions in such a setting. This multidisciplinary research topic overlaps the fields of computer science, psychology, applied mathematics and statistics, economics and management science, and has many applications in areas including astronomy, medicine, robotics, and cyber security, crisis management, and collaborative writing.</p>
