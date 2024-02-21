@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<div vertical-align: middle>
+<div vertical-align="middle">
     <h1>
         Hi, I'm Ei Pa Pa Pe Than.
     </h1>
