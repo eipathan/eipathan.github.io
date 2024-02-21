@@ -1,13 +1,25 @@
 ---
 permalink: /
-title: "Hi, I'm Ei Pa Pa Pe Than."
+# title: "Hi, I'm Ei Pa Pa Pe Than."
 excerpt: "About me"
 author_profile: true
 redirect_from:
   - /about/
   - /about.html
 ---
-<p style="text-align: justify">I'm a postdoctoral research fellow of the <a href="https://s3d.cmu.edu/">Software and Societal Systems Department (formerly Institute for Software Researc)h</a> in the <a href="https://www.scs.cmu.edu/">School of Computer Science</a> at <a href="https://www.cmu.edu/">Carnegie Mellon University</a> in Pittsburgh, Pennsylvania, USA, where I'm advised by <a href="https://herbsleb.org/">James Herbsleb</a>.</p>
+<div vertical-align: middle>
+    <h1>
+        Hi, I'm Ei Pa Pa Pe Than.
+    </h1>
+    <br>
+    <p style="text-align: justify">
+    I'm a former postdoctoral research fellow of the <a href="https://s3d.cmu.edu/">Software and Societal Systems Department (formerly Institute for Software Research)</a> in the <a href="https://www.scs.cmu.edu/">School of Computer Science</a> at <a href="https://www.cmu.edu/">Carnegie Mellon University</a> in Pittsburgh, Pennsylvania, USA, where I'm advised by <a href="https://herbsleb.org/">James Herbsleb</a>. My reseach investigates how collaboration and coordination unfolds in work teams in time-bounded events, for example, hackathons for education, entrepreneurship, and community building in various organizational settings, and devises practises and guidelines to shape the team work for better outcomes.
+    </p>
+
+    <h1>
+        Download my <a href="https://epppt.github.io/files/eipa-cv.pdf">CV</a> here.
+    </h1> 
+</div>
 
 <!--
 <p style="text-align: justify"><u><b>RESEARCH</b></u>. My research aims at contributing to the coordination theory with a particular focus on the effective and efficient dissemination and coordination of work in an open connected network of mobile networks, each either “adapting” digital artifacts for independent missions or producing work “perfecting” the original digital artifact. Central to this research effort is the socio-technical challenge of the understanding of how coordination unfolds in such a highly connected network of networks, and how and why humans navigate and make decisions in such a setting. This multidisciplinary research topic overlaps the fields of computer science, psychology, applied mathematics and statistics, economics and management science, and has many applications in areas including astronomy, medicine, robotics, and cyber security, crisis management, and collaborative writing.</p>
