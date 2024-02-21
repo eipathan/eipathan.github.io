@@ -1,4 +1,5 @@
 ---
+layout: archive
 title: "Research"
 excerpt: "research"
 author_profile: true
@@ -11,17 +12,14 @@ permalink: /research/
 My research aims at contributing to the therory of coordination with a particular focus on the effective and efficient dissemination and coordination of work in an open connected network of networks, each either “adapting” digital artifacts for independent missions or producing work “perfecting” the original digital artifact, through an empirical case study research approach employing ethnography (interviews and non-participant observations), and archival analysis (quantitative collection and analysis of logs and trace data with Python, SQL, and R), and a combination of all of these methods (mixed-methods) as relevant. 
 </p>
 
-<section>
 <p style="text-align: justify">
 Recently, much of my work has focused on large scale coordination in the development of software and non-software artifacts:
 </p>
-<ul>
-<li>(a)&nbsp;<b>in time-bounded events for software development (known as hackathons)</b> where small teams work over a specified period to complete a project of interest. My work particularly looks into how such events are organized, what the hackathon teams do, and what outcomes they produce, observing the pre-existing and newly-formed teams in the 2017 Micorsoft OneWeek Hackathon, and co-organizing and studying a series of hackathons with the teams of Hubble Space telescope at the Space Telescope Sciecne Institute (STScI). Based on our experience of organizing and studying multiple hackathons, we developed a <a href="https://hackathon-planning-kit.org/">hackathon planning kit</a> for potential hackathon organizers.
-</li>
-<li>(b)&nbsp;<b>in open collaboraitve writing projects in a networked digital environment</b> where I explore how the widely used "fork-and-pull" model of distributed version management system in software development support coordination and public contribution in collaborative writing through a case study of two open-text projects on GitHub.com: a mathematics textbook on <a href="https://github.com/HoTT/book">homotopy type theory (HoTT)</a> and <a href="https://github.com/18F/open-source-policy">open source policies by 18F</a>, a branch of federal agency of the United States Government, and reconstruct how text artifacts were created.
-</li>
-</ul>
-</section>
+<br>
+(a)&nbsp;<b>in time-bounded events for software development (known as hackathons)</b> where small teams work over a specified period to complete a project of interest. My work particularly looks into how such events are organized, what the hackathon teams do, and what outcomes they produce, observing the pre-existing and newly-formed teams in the 2017 Micorsoft OneWeek Hackathon, and co-organizing and studying a series of hackathons with the teams of Hubble Space telescope at the Space Telescope Sciecne Institute (STScI). Based on our experience of organizing and studying multiple hackathons, we developed a <a href="https://hackathon-planning-kit.org/">hackathon planning kit</a> for potential hackathon organizers.
+<br>
+(b)&nbsp;<b>in open collaboraitve writing projects in a networked digital environment</b> where I explore how the widely used "fork-and-pull" model of distributed version management system in software development support coordination and public contribution in collaborative writing through a case study of two open-text projects on GitHub.com: a mathematics textbook on <a href="https://github.com/HoTT/book">homotopy type theory (HoTT)</a> and <a href="https://github.com/18F/open-source-policy">open source policies by 18F</a>, a branch of federal agency of the United States Government, and reconstruct how text artifacts were created.
+</p>
 
 <p style="text-align: justify">
 For more details about specific projects, check out the <a href="https://epppt.github.io/publications">list of publications</a>.
