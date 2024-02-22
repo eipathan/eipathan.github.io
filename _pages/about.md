@@ -8,13 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-<!--<p style="text-align: justify">-->
-<p>
+<p style="text-align: justify">
 I completed my postdoctoral research fellowship in 2020 at the <a href="https://cmu.edu">Carnegie Mellon University</a>'s <a href="https://www.scs.cmu.edu/">School of Computer Science</a>'s <a href="https://s3d.cmu.edu/">Software and Societal Systems Department</a> (formerly Institute for Software Research) in Pittsburgh, PA, USA, where my advisor is <a href="https://herbsleb.org/">James Herbsleb</a>, after receiving a PhD in Information Science and a MSc in Information Systems in 2016 and 2009 respectively from the <a href="https://www.ntu.edu.sg/">Nanyang Technological University</a> in Singapore, and a BSc (Hons.) in Computer Science from the University of Computer Studies in Yangon, Myanmar.
 </p>
 
-<!--<p style="text-align: justify">-->
-<p>
+<p style="text-align: justify">
 My research interest lies in the area of collaboration and coordination, and my work seeks to understand how collaboration and coordination unfolds in work teams in time-bounded events (e.g., hackathons for education, entrepreneurship, and community building) and in an open connected network of networks (e.g., GitHub.com), and devises practises and guidelines to shape their future coordination for better outcomes. My work has been published in major computer science conferences and journals including <a href="https://dl.acm.org/conference/cscw">ACM CSCW</a>, <a href="https://www.computer.org/csdl/magazine/so">IEEE Software</a>, <a href="https://www.tandfonline.com/journals/hhci20">Human-Computer Interaction</a>, and <a href="https://www.sciencedirect.com/journal/computers-in-human-behavior">Computers in Human Behavior</a>.  
 </p>
 
