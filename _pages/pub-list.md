@@ -1,5 +1,4 @@
 ---
-layout: archive
 title: "Selected Papers"
 excerpt: "papers"
 author_profile: true
@@ -11,8 +10,7 @@ permalink: /pub-list/
 <p>
 For a complete list, refer to my <a href="">Google Scholar</a>, <a href="">Research Gate</a>, and my <a href="https://epppt.github.io/files/eipa-cv.pdf">CV</a>.
 </p>
-
-<h2>Peer-Reviewed Journals</h2>
+<h2 class="western">Peer-Reviewed Journals</h2>
 <p style="text-align: justify">
 Pe-Than, E.P.P., Nolte, A., Filippova, A., Bird, C., Scallen, S., & Herbsleb, J.D. (2022). Corporate hackathons, how and why? A multiple case study of motivation, projects proposal and selection, goal setting, coordination, and outcomes. <i>Human–Computer Interaction, 37</i>, 281–313. (<a href="https://doi.org/10.1080/07370024.2020.1760869">doi</a> | <a href="https://epppt.github.io/files/Than_HCI_2020.pdf">pdf</a>)
 </p>
