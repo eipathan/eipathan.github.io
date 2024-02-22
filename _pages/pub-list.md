@@ -14,7 +14,7 @@ For a complete list, refer to my <a href="">Google Scholar</a>, <a href="">Resea
 <h2 class="western">Peer-Reviewed Journals</h2>
 
 <p style="text-align: justify">
-Pe-Than, E.P.P., Nolte, A., Filippova, A., Bird, C., Scallen, S., & Herbsleb, J.D. (2022). Corporate hackathons, how and why? A multiple case study of motivation, projects proposal and selection, goal setting, coordination, and outcomes. <i>Human–Computer Interaction, 37</i>, 281–313. (<a href="https://doi.org/10.1080/07370024.2020.1760869">doi</a> | <a href="https://epppt.github.io/files/Than_HCI_2020.pdf">pdf</a>)<br />
+Pe-Than, E.P.P., Nolte, A., Filippova, A., Bird, C., Scallen, S., & Herbsleb, J.D. (2022). Corporate hackathons, how and why? A multiple case study of motivation, projects proposal and selection, goal setting, coordination, and outcomes. <i>Human–Computer Interaction, 37</i>, 281–313. (<a href="https://doi.org/10.1080/07370024.2020.1760869">doi</a> | <a href="https://epppt.github.io/files/Than_HCI_2020.pdf">pdf</a>)<br /><br />
 
 Pe-Than, E.P.P., Nolte, A., Filippova, A., Bird, C., Scallen, S., and Herbsleb, J.D. (2018). Designing Corporate Hackathons with a Purpose. <i>IEEE Software, 36</i> (1), 15–22. (<a href="https://doi.org/10.1109/MS.2018.290110547">doi</a> | <a href="https://epppt.github.io/files/Pe-Than-ieeesw-2018.pdf">pdf</a>) <span style="color:red">(Runner-up for the 2019 Best Paper Award by IEEE Software Publication Board)</span><br />
 
