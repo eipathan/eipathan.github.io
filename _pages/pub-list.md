@@ -22,8 +22,7 @@ Pe-Than, E.P.P., Goh, D.H.-L. and Lee, C.S. (2017), Does it matter how you play?
 
 Pe-Than, E. P. P., Goh, D. H-L, and Lee, C.S. (2015) A typology of human computation games: an analysis and a review of current games. <i>Behaviour & Information Technology, 34 </i>(8), 809–824. (<a href="https://doi.org/10.1080/0144929X.2013.862304">doi</a> | <a href="https://epppt.github.io/files/BIT-2014.pdf">pdf</a>)<br /><br />
 
-Pe-Than, E.P.P., Goh, D.H-L, and Lee, C.S. (2014). Making work fun. <i>Computers in Human Behavior, 39 </i>(C), 88–99. (<a href="https://doi.org/10.1016/j.chb.2014.06.023">doi</a> | <a href="https://epppt.github.io/files/CHB-2014.pdf">pdf</a>)<br /><br />
-
+Pe-Than, E.P.P., Goh, D.H-L, and Lee, C.S. (2014). Making work fun. <i>Computers in Human Behavior, 39 </i>(C), 88–99. (<a href="https://doi.org/10.1016/j.chb.2014.06.023">doi</a> | <a href="https://epppt.github.io/files/CHB-2014.pdf">pdf</a>)
 </p>
 
 <h2 class="western">Peer-Reviewed Conferences</h2>
@@ -38,8 +37,8 @@ Pe-Than, E.P.P., Dabbish, L., and Herbsleb, J.D. (2018). Collaborative Writing o
 
 Pe-Than, E.P.P., Herbsleb, J.D., Nolte, A., Gerber, E., Fiore-Gartland, B., Chapman, B., Moser, A., and Wilkins-Diehr, N. (2018). The 2nd Workshop on Hacking and Making at Time-Bounded Events: Current Trends and Next Steps in Research and Event Design. In <i>Extended Abstracts of the 2018 CHI Conference on Human Factors in Computing Systems (CHI EA’18)</i>, paper W35, 8 pages. (<a href="https://doi.org/10.1145/3170427.3170615">doi</a> | <a href="https://epppt.github.io/files/CHI-workshop-2018.pdf">pdf</a>)<br /><br />
 
-Pe-Than, E.P.P., Goh, D.HL., Lee, C.S. (2012). Enjoyment of a Mobile Information Sharing Game: Perspectives from Needs Satisfaction and Information Quality. In: <i>Chen, HH., Chowdhury, G. (eds) The Outreach of Digital Libraries: A Globalized Resource Network. ICADL 2012. Lecture Notes in Computer Science, vol 7634</i>, pp 126–135. Springer, Berlin, Heidelberg. (<a href="https://doi.org/10.1007/978-3-642-34752-8_16">doi</a> | pdf)<br /><br />
-
+Pe-Than, E.P.P., Goh, D.HL., Lee, C.S. (2012). Enjoyment of a Mobile Information Sharing Game: Perspectives from Needs Satisfaction and Information Quality. In: <i>Chen, HH., Chowdhury, G. (eds) The Outreach of Digital Libraries: A Globalized Resource Network. ICADL 2012. Lecture Notes in Computer Science, vol 7634</i>, pp 126–135. Springer, Berlin, Heidelberg. (<a href="https://doi.org/10.1007/978-3-642-34752-8_16">doi</a> | pdf)
+</p>
 
 <h2 class="western">Technical reports</h2>
 <p style="text-align: justify">
@@ -56,15 +55,15 @@ Pe-Than, E.P.P., Momcheva, I., Tolleud, E., and Herbsleb, J.D. (2019). Hackathon
 
 Powell, J., Hayden, L., Nolte, A., Herbsleb, J.D., Pe-Than, E.P.P., Wong, M., Kalyanam, R., Ellet, K., Pamidighantam, S., Traxler, K., and Cannon, A. (2018). An Analysis of the PEARC 2018 Science Gateways Community Institute Hackathon: Lessons Learned. Presented at Gateways 2018 organized by the Science Gateways Community Institute (SGCI). (<a href="https://doi.org/10.6084/m9.figshare.7070309.v2">doi</a> | <a href="https://epppt.github.io/files/SGCI-poster-2018.pdf">pdf</a>) <br /><br />
 
-Pe-Than, E.P.P., Nolte, A., Filippova, A., Bird, C., Scallen, S. and Herbsleb, J.D. (2018). An Empirical Study of Team Familiarity, Goal Setting, and Process in Time-Bounded Events. Presented at the 13th Annual Interdisciplinary Network for Group Research Conference (INGRoup’18). <br /><br />
+Pe-Than, E.P.P., Nolte, A., Filippova, A., Bird, C., Scallen, S. and Herbsleb, J.D. (2018). An Empirical Study of Team Familiarity, Goal Setting, and Process in Time-Bounded Events. Presented at the 13th Annual Interdisciplinary Network for Group Research Conference (INGRoup’18).
 </p>
 
 <h2 class="western">Selected other papers</h2>
 <p style="text-align: justify">
-Alexander Nolte, Ei Pa Pa Pe-Than, Abasi-amefon Obot Affia, Chalalai Chaihirunkarn, Anna Filippova, Arun Kalyanasundaram, Maria Angelica Medina Angarita, Erik Trainer, and James D. Herbsleb. (2020). How to organize a hackathon -- A planning kit. https://arxiv.org/abs/2008.08025v2 (<a href="https://doi.org/10.48550/arXiv.2008.08025">doi</a>) <br /><br />
+Alexander Nolte, Ei Pa Pa Pe-Than, Abasi-amefon Obot Affia, Chalalai Chaihirunkarn, Anna Filippova, Arun Kalyanasundaram, Maria Angelica Medina Angarita, Erik Trainer, and James D. Herbsleb. (2020). How to organize a hackathon -- A planning kit. https://arxiv.org/abs/2008.08025v2 (<a href="https://doi.org/10.48550/arXiv.2008.08025">doi</a>)
 </p>
 
 <h2 class="western">Presentations</h2>
 <p style="text-align: justify">
-Pe-Than, E.P.P., Nolte, A., Filippova, A., Bird, C., Scallen, S., and Herbsleb, J.D. (2018). Designing Corporate Hackathons with a Purpose. IEEE Software, 36 (1), 15–22. Presented as journal first paper at the 27th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE), August 2019, Tallinn, Estonia. (<a href="https://doi.org/10.1109/MS.2018.290110547">doi</a> | <a href="https://epppt.github.io/files/Pe-Than-ieeesw-2018.pdf">pdf</a> | <a href="https://epppt.github.io/files/FSE-slides-2019.pdf">slides</a>) <br />
+Pe-Than, E.P.P., Nolte, A., Filippova, A., Bird, C., Scallen, S., and Herbsleb, J.D. (2018). Designing Corporate Hackathons with a Purpose. IEEE Software, 36 (1), 15–22. Presented as journal first paper at the 27th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE), August 2019, Tallinn, Estonia. (<a href="https://doi.org/10.1109/MS.2018.290110547">doi</a> | <a href="https://epppt.github.io/files/Pe-Than-ieeesw-2018.pdf">pdf</a> | <a href="https://epppt.github.io/files/FSE-slides-2019.pdf">slides</a>)
 </p>
