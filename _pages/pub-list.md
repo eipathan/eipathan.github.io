@@ -16,13 +16,13 @@ For a complete list, refer to my <a href="">Google Scholar</a>, <a href="">Resea
 <p style="text-align: justify">
 Pe-Than, E.P.P., Nolte, A., Filippova, A., Bird, C., Scallen, S., & Herbsleb, J.D. (2022). Corporate hackathons, how and why? A multiple case study of motivation, projects proposal and selection, goal setting, coordination, and outcomes. <i>Human–Computer Interaction, 37</i>, 281–313. (<a href="https://doi.org/10.1080/07370024.2020.1760869">doi</a> | <a href="https://epppt.github.io/files/Than_HCI_2020.pdf">pdf</a>)<br /><br />
 
-Pe-Than, E.P.P., Nolte, A., Filippova, A., Bird, C., Scallen, S., and Herbsleb, J.D. (2018). Designing Corporate Hackathons with a Purpose. <i>IEEE Software, 36</i> (1), 15–22. (<a href="https://doi.org/10.1109/MS.2018.290110547">doi</a> | <a href="https://epppt.github.io/files/Pe-Than-ieeesw-2018.pdf">pdf</a>) <span style="color:red">(Runner-up for the 2019 Best Paper Award by IEEE Software Publication Board)</span><br />
+Pe-Than, E.P.P., Nolte, A., Filippova, A., Bird, C., Scallen, S., and Herbsleb, J.D. (2018). Designing Corporate Hackathons with a Purpose. <i>IEEE Software, 36</i> (1), 15–22. (<a href="https://doi.org/10.1109/MS.2018.290110547">doi</a> | <a href="https://epppt.github.io/files/Pe-Than-ieeesw-2018.pdf">pdf</a>) <span style="color:red">(Runner-up for the 2019 Best Paper Award by IEEE Software Publication Board)</span><br /><br />
 
-Pe-Than, E.P.P., Goh, D.H.-L. and Lee, C.S. (2017), Does it matter how you play? The effects of collaboration and competition among players of human computation games. <i>Journal of the Association for Information Science and Technology, 68</i>, 1823–1835. (<a href="https://doi.org/10.1002/asi.23863">doi</a> | <a href="https://epppt.github.io/files/JASIST-2017.pdf">pdf</a>)<br />
+Pe-Than, E.P.P., Goh, D.H.-L. and Lee, C.S. (2017), Does it matter how you play? The effects of collaboration and competition among players of human computation games. <i>Journal of the Association for Information Science and Technology, 68</i>, 1823–1835. (<a href="https://doi.org/10.1002/asi.23863">doi</a> | <a href="https://epppt.github.io/files/JASIST-2017.pdf">pdf</a>)<br /><br />
 
-Pe-Than, E. P. P., Goh, D. H-L, and Lee, C.S. (2015) A typology of human computation games: an analysis and a review of current games. <i>Behaviour & Information Technology, 34 </i>(8), 809–824. (<a href="https://doi.org/10.1080/0144929X.2013.862304">doi</a> | <a href="https://epppt.github.io/files/BIT-2014.pdf">pdf</a>)<br />
+Pe-Than, E. P. P., Goh, D. H-L, and Lee, C.S. (2015) A typology of human computation games: an analysis and a review of current games. <i>Behaviour & Information Technology, 34 </i>(8), 809–824. (<a href="https://doi.org/10.1080/0144929X.2013.862304">doi</a> | <a href="https://epppt.github.io/files/BIT-2014.pdf">pdf</a>)<br /><br />
 
-Pe-Than, E.P.P., Goh, D.H-L, and Lee, C.S. (2014). Making work fun. <i>Computers in Human Behavior, 39 </i>(C), 88–99. (<a href="https://doi.org/10.1016/j.chb.2014.06.023">doi</a> | <a href="https://epppt.github.io/files/CHB-2014.pdf">pdf</a>)<br />
+Pe-Than, E.P.P., Goh, D.H-L, and Lee, C.S. (2014). Making work fun. <i>Computers in Human Behavior, 39 </i>(C), 88–99. (<a href="https://doi.org/10.1016/j.chb.2014.06.023">doi</a> | <a href="https://epppt.github.io/files/CHB-2014.pdf">pdf</a>)<br /><br />
 
 </p>
 
