@@ -16,7 +16,8 @@ main:
     url: /activities/
 
   - title: "Publications"
-    url: /publications/
+    #url: /publications/
+    url: /pub-list/
 
   #- title: "Publications"
   #  url: /pub-list/
