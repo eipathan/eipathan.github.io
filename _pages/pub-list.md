@@ -39,18 +39,32 @@ Pe-Than, E.P.P., Dabbish, L., and Herbsleb, J.D. (2018). Collaborative Writing o
 Pe-Than, E.P.P., Herbsleb, J.D., Nolte, A., Gerber, E., Fiore-Gartland, B., Chapman, B., Moser, A., and Wilkins-Diehr, N. (2018). The 2nd Workshop on Hacking and Making at Time-Bounded Events: Current Trends and Next Steps in Research and Event Design. In <i>Extended Abstracts of the 2018 CHI Conference on Human Factors in Computing Systems (CHI EA’18)</i>, paper W35, 8 pages. (<a href="https://doi.org/10.1145/3170427.3170615">doi</a> | <a href="https://epppt.github.io/files/CHI-workshop-2018.pdf">pdf</a>)<br /><br />
 
 Pe-Than, E.P.P., Goh, D.HL., Lee, C.S. (2012). Enjoyment of a Mobile Information Sharing Game: Perspectives from Needs Satisfaction and Information Quality. In: <i>Chen, HH., Chowdhury, G. (eds) The Outreach of Digital Libraries: A Globalized Resource Network. ICADL 2012. Lecture Notes in Computer Science, vol 7634</i>, pp 126–135. Springer, Berlin, Heidelberg. (<a href="https://doi.org/10.1007/978-3-642-34752-8_16">doi</a> | pdf)<br /><br />
+
+
+<h2 class="western">Technical reports</h2>
+<p style="text-align: justify">
+Pe-Than, E.P.P., and Nolte, A. (2018). The 2nd Workshop on Hacking and Making at Time-Bounded Events. <i>Technical Report CMU-ISR-18-109</i>, Carnegie Mellon University. (<a href="http://epppt.github.io/files/ISR-techreport-2018.pdf">pdf</a>)
 </p>
-<!--
-Technical reports
-Pe-Than, E.P.P., and Nolte, A. (2018). The 2nd Workshop on Hacking and Making at Time-Bounded Events. Technical Report CMU-ISR-18-109, Carnegie Mellon University. PDF
-Posters
-Pe-Than, E.P.P., Dabbish, L., and Herbsleb, J.D. (2019). Collaborative Writing at Scale: A Case Study of Two Open-Text Projects Done on GitHub. Paper presented at The Future of Work, Human Computer Interaction Consortium (HCIC'19). PDF
-Pe-Than, E.P.P., Dabbish, L., and Herbsleb, J.D. (2019). Collaborative Writing at Scale: A Case Study of Two Open-Text Projects Done on GitHub. Poster presented at the 7th ACM Conference on Collective Intelligence 2019 (CI'19). https://ci.acm.org/2019/assets/proceedings/CI_2019_paper_65.pdf | PDF
-Pe-Than, E.P.P., Momcheva, I., Tolleud, E., and Herbsleb, J.D. (2019). Hackathons for Science, How and Why? Poster presented at the 233rd Meeting of the American Astronomical Society, AAS Meeting #233, id.459.11. https://ui.adsabs.harvard.edu/abs/ 2019AAS...23345911P/abstract
-Powell, J., Hayden, L., Nolte, A., Herbsleb, J.D., Pe-Than, E.P.P., Wong, M., Kalyanam, R., Ellet, K., Pamidighantam, S., Traxler, K., and Cannon, A. (2018). An Analysis of the PEARC 2018 Science Gateways Community Institute Hackathon: Lessons Learned. Poster presented at Gateways 2018 organized by the Science Gateways Community Institute (SGCI). DOI | PDF
-Pe-Than, E.P.P., Nolte, A., Filippova, A., Bird, C., Scallen, S. and Herbsleb, J.D. (2018). An Empirical Study of Team Familiarity, Goal Setting, and Process in Time-Bounded Events. Poster presented at the 13th Annual Interdisciplinary Network for Group Research Conference (INGRoup’18).
-Selected other papers
-Alexander Nolte, Ei Pa Pa Pe-Than, Abasi-amefon Obot Affia, Chalalai Chaihirunkarn, Anna Filippova, Arun Kalyanasundaram, Maria Angelica Medina Angarita, Erik Trainer, and James D. Herbsleb. (2020). How to organize a hackathon -- A planning kit. DOI | https://arxiv.org/abs/2008.08025v2
-Presentations
-Pe-Than, E.P.P., Nolte, A., Filippova, A., Bird, C., Scallen, S., and Herbsleb, J.D. (2018). Designing Corporate Hackathons with a Purpose. IEEE Software, 36 (1), 15–22. Presented as journal first paper at the 27th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE), August 2019, Tallinn, Estonia. DOI | PDF | Slides
--->
+
+<h2 class="western">Posters</h2>
+<p style="text-align: justify">
+Pe-Than, E.P.P., Dabbish, L., and Herbsleb, J.D. (2019). Collaborative Writing at Scale: A Case Study of Two Open-Text Projects Done on GitHub. <i>Presented at The Future of Work, Human Computer Interaction Consortium (HCIC'19)</i>. (<a href="http://epppt.github.io/files/ HCIC-poster-2019.pdf">pdf</a>)<br />
+
+Pe-Than, E.P.P., Dabbish, L., and Herbsleb, J.D. (2019). Collaborative Writing at Scale: A Case Study of Two Open-Text Projects Done on GitHub. Presented at the 7th ACM Conference on Collective Intelligence 2019 (CI'19). <a href="https://ci.acm.org/2019/assets/proceedings/CI_2019_paper_65.pdf">https://ci.acm.org/2019/assets/proceedings/CI_2019_paper_65.pdf</a> (<a href="http://epppt.github.io/files/CI-poster-2019.pdf">pdf</a>)<br />
+
+Pe-Than, E.P.P., Momcheva, I., Tolleud, E., and Herbsleb, J.D. (2019). Hackathons for Science, How and Why? Presented at the 233rd Meeting of the American Astronomical Society, AAS Meeting #233, id.459.11. <a href="https://ui.adsabs.harvard.edu/abs/ 2019AAS...23345911P/abstract">https://ui.adsabs.harvard.edu/abs/ 2019AAS...23345911P/abstract</a> <br />
+
+Powell, J., Hayden, L., Nolte, A., Herbsleb, J.D., Pe-Than, E.P.P., Wong, M., Kalyanam, R., Ellet, K., Pamidighantam, S., Traxler, K., and Cannon, A. (2018). An Analysis of the PEARC 2018 Science Gateways Community Institute Hackathon: Lessons Learned. Presented at Gateways 2018 organized by the Science Gateways Community Institute (SGCI). (<a href="https://doi.org/10.6084/m9.figshare.7070309.v2">doi</a> | <a href="https://epppt.github.io/files/SGCI-poster-2018.pdf">pdf</a>) <br />
+
+Pe-Than, E.P.P., Nolte, A., Filippova, A., Bird, C., Scallen, S. and Herbsleb, J.D. (2018). An Empirical Study of Team Familiarity, Goal Setting, and Process in Time-Bounded Events. Presented at the 13th Annual Interdisciplinary Network for Group Research Conference (INGRoup’18). <br />
+</p>
+
+<h2 class="western">Selected other papers</h2>
+<p style="text-align: justify">
+Alexander Nolte, Ei Pa Pa Pe-Than, Abasi-amefon Obot Affia, Chalalai Chaihirunkarn, Anna Filippova, Arun Kalyanasundaram, Maria Angelica Medina Angarita, Erik Trainer, and James D. Herbsleb. (2020). How to organize a hackathon -- A planning kit. https://arxiv.org/abs/2008.08025v2 (<a href="https://doi.org/10.48550/arXiv.2008.08025">doi</a>) <br />
+</p>
+
+<h2 class="western">Presentations</h2>
+<p style="text-align: justify">
+Pe-Than, E.P.P., Nolte, A., Filippova, A., Bird, C., Scallen, S., and Herbsleb, J.D. (2018). Designing Corporate Hackathons with a Purpose. IEEE Software, 36 (1), 15–22. Presented as journal first paper at the 27th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE), August 2019, Tallinn, Estonia. (<a href="https://doi.org/10.1109/MS.2018.290110547">doi</a> | <a href="https://epppt.github.io/files/Pe-Than-ieeesw-2018.pdf">pdf</a> | <a href="https://epppt.github.io/files/FSE-slides-2019.pdf">slides</a>) <br />
+</p>
