@@ -29,7 +29,7 @@ Pe-Than, E.P.P., Goh, D.H-L, and Lee, C.S. (2014). Making work fun. <i>Computers
 <h2 class="western">Peer-Reviewed Conferences</h2>
 
 <p style="text-align: justify">
-Pe-Than, E.P.P., Dabbish, L., and Herbsleb, J.D. (2021). Open Collaborative Writing: Investigation of the Fork-and-Pull Model. In <i>Proceedings of the ACM on Human Computer Interaction, 5 </i>(CSCW1), Article 137 (April 2021), pp. 1–33. (<a href="https://doi.org/10.1145/3449211">doi</a> | <a href="https://epppt.github.io/files/pe-than_CSCW2021.pdf">doi)<br /><br />
+Pe-Than, E.P.P., Dabbish, L., and Herbsleb, J.D. (2021). Open Collaborative Writing: Investigation of the Fork-and-Pull Model. In <i>Proceedings of the ACM on Human Computer Interaction, 5 </i>(CSCW1), Article 137 (April 2021), pp. 1–33. (<a href="https://doi.org/10.1145/3449211">doi</a> | <a href="https://epppt.github.io/files/pe-than_CSCW2021.pdf">doi</a>)<br /><br />
 
 Pe-Than, E.P.P. and Herbsleb, J.D. (2019). Understanding Hackathons for Science: Collaboration, Affordances, and Outcomes. In: Taylor, N., Christian-Lamb, C., Martin, M., Nardi, B. (eds) Information in Contemporary Society. iConference 2019. Lecture Notes in Computer Science, vol 11420, pp. 27–37. Springer, Cham. (<a href="https://doi.org/10.1007/978-3-030-15742-5_3">doi</a> | <a href="https://epppt.github.io/files/iConference-2019.pdf">pdf</a>)<br /><br />
 
