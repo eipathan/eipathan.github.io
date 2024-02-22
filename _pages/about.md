@@ -17,7 +17,7 @@ My research interest lies in the area of collaboration and coordination, and my 
 </p>
 
 <p>
-See my <a href="https://epppt.github.io/files/eipa-cv.pdf">CV</a> for details.
+See my <a href="https://epppt.github.io/files/cv-epppt.pdf">CV</a> for details.
 </p>
 
 <!--
