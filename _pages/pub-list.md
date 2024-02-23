@@ -8,7 +8,7 @@ permalink: /pub-list/
 {% include base_path %}
 
 <p>
-For a complete list, refer to my <a href="">Google Scholar</a>, <a href="">Research Gate</a>, and my <a href="https://epppt.github.io/files/cv-epppt.pdf">CV</a>.
+For a complete list, refer to my <a href="https://scholar.google.com/citations?user=U7HARQEAAAAJ&hl=en">Google Scholar</a>, <a href="https://www.researchgate.net/profile/Ei_Pa_Pa_Pe_Than">Research Gate</a>, and my <a href="https://epppt.github.io/files/cv-epppt.pdf">CV</a>.
 </p>
 
 <h2>Peer-Reviewed Journals</h2>
