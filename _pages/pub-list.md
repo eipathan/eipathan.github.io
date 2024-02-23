@@ -20,10 +20,11 @@ Pe-Than, E.P.P., Nolte, A., Filippova, A., Bird, C., Scallen, S., & Herbsleb, J.
 Pe-Than, E.P.P., Nolte, A., Filippova, A., Bird, C., Scallen, S., and Herbsleb, J.D. (2018). Designing Corporate Hackathons with a Purpose. <i>IEEE Software, 36</i> (1), 15–22. (<a href="https://doi.org/10.1109/MS.2018.290110547">doi</a> | <a href="https://epppt.github.io/files/Pe-Than-ieeesw-2018.pdf">pdf</a>) <span style="color:red">(Runner-up for the 2019 Best Paper Award by IEEE Software Publication Board)</span>
 </p>
 
-<!--
 <p style="text-align: justify">
-Pe-Than, E.P.P., Goh, D.H.-L. and Lee, C.S. (2017), Does it matter how you play? The effects of collaboration and competition among players of human computation games. <i>Journal of the Association for Information Science and Technology, 68</i>, 1823–1835. (<a href="https://doi.org/10.1002/asi.23863">doi</a> | <a href="https://epppt.github.io/files/JASIST-2017.pdf">pdf</a>)</p>
+Pe-Than, E.P.P., Goh, D.H.-L. and Lee, C.S. (2017), Does it matter how you play? The effects of collaboration and competition among players of human computation games. <i>Journal of the Association for Information Science and Technology, 68</i>, 1823–1835. (<a href="https://doi.org/10.1002/asi.23863">doi</a> | <a href="https://epppt.github.io/files/JASIST-2017.pdf">pdf</a>)
+</p>
 
+<!--
 <p style="text-align: justify">
 Pe-Than, E. P. P., Goh, D. H-L, and Lee, C.S. (2015) A typology of human computation games: an analysis and a review of current games. <i>Behaviour & Information Technology, 34 </i>(8), 809–824. (<a href="https://doi.org/10.1080/0144929X.2013.862304">doi</a> | <a href="https://epppt.github.io/files/BIT-2014.pdf">pdf</a>)
 </p>
@@ -31,6 +32,10 @@ Pe-Than, E. P. P., Goh, D. H-L, and Lee, C.S. (2015) A typology of human computa
 
 <p style="text-align: justify">
 Pe-Than, E.P.P., Goh, D.H-L, and Lee, C.S. (2014). Making work fun. <i>Computers in Human Behavior, 39 </i>(C), 88–99. (<a href="https://doi.org/10.1016/j.chb.2014.06.023">doi</a> | <a href="https://epppt.github.io/files/CHB-2014.pdf">pdf</a>)
+</p>
+
+<p style="text-align: justify">
+Goh, D. H-L, Pe-Than, E. P. P., and Lee, C. S. (2017). Perceptions of virtual reward systems in crowdsourcing games. <i>Computers in Human Behavior, Volume 70 </i>(May 2017), 365–374. (<a href="https://doi.org/10.1016/j.chb.2017.01.006">doi</a> | <a href="https://epppt.github.io/files/goh-chb-2017.pdf">pdf</a>)
 </p>
 
 <h2>Peer-Reviewed Conferences</h2>
