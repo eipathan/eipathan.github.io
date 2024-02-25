@@ -9,10 +9,10 @@ permalink: /activities/
 
 <p>
 <h2 class="western">Organizing</h2>
-Co-organizer, A series of internal hackathons with Hubble Space Telescope team at <a href="https://www.stsci.edu/home">Space Telescope Science Institute (STScI)</a>, Baltimore, MD, USA (2018–2019) <br>
+Co-organizer, A series of internal hackathons with NASA's Hubble Space Telescope team at <a href="https://www.stsci.edu/home">Space Telescope Science Institute (STScI)</a>, Baltimore, MD, USA (2018–2019) <br>
 Co-organizer, <a href="https://github.com/woc-hack">World of Code (WoC) Hackathon</a>, Carnegie Mellon University (2019) <br>
 Co-organizer, <a href="http://hackhpc.org/pasthacks/#pearc18">Science Gateways Hackathon</a> by the Science Gateways Community Institute (SGCI), collocated with PEARC18 Conference, Wyndham Grand Pittsburgh (2018) <br>
-Co-organizer, <a href="https://epppt.github.io/hackathon-workshop-2018/">The 2nd Workshop on Hacking and Making at Time-Bounded Events</a>: Current Trends and Next Steps in Research and Event Design, ACM CHI'18 conference, Montreal, Canada (2018) <br>
+Co-organizer, <a href="https://epppt.github.io/hackathon-workshop-2018/">The 2nd Workshop on Hacking and Making at Time-Bounded Events</a>: Current Trends and Next Steps in Research and Event Design, ACM CHI'18 conference, Montreal, Canada (2018) (<a href="https://epppt.github.io/hackathon-workshop-2018/">website</a> | <a href="http://epppt.github.io/files/ISR-techreport-2018.pdf">">tech-report</a>)<br>
 </p>
 
 <p>

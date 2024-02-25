@@ -65,7 +65,7 @@ Pe-Than, E.P.P., Goh, D.HL., Lee, C.S. (2012). Enjoyment of a Mobile Information
 
 <h2>Technical reports</h2>
 <p style="text-align: justify">
-Pe-Than, E.P.P., and Nolte, A. (2018). The 2nd Workshop on Hacking and Making at Time-Bounded Events. <i>Technical Report CMU-ISR-18-109</i>, Carnegie Mellon University. (<a href="http://epppt.github.io/files/ISR-techreport-2018.pdf">pdf</a>)
+Pe-Than, E.P.P., and Nolte, A. (2018). The 2nd Workshop on Hacking and Making at Time-Bounded Events. <i>Technical Report CMU-ISR-18-109</i>, Carnegie Mellon University. (<a href="http://epppt.github.io/files/ISR-techreport-2018.pdf">pdf</a> | <a href="https://epppt.github.io/hackathon-workshop-2018/">website</a>)
 </p>
 
 <h2>Posters</h2>
