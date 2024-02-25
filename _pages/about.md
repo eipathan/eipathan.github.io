@@ -17,8 +17,8 @@ My research interest lies in the area of collaboration and coordination, and my 
 </p>
 
 <p style="text-align: justify">
-My work at the Carnegie Mellon is supported by the <a href="https://sloan.org/">Alfred P. Sloan Foundation</a>, “Enhancing Scientific Software
-Sustainability Through Community Code Engagements" and the <a href="https://www.nsf.gov/">National Science Foundation</a>, and has been published in major computer science conferences and journals including <a href="https://dl.acm.org/conference/cscw">ACM CSCW</a>, <a href="https://www.computer.org/csdl/magazine/so">IEEE Software</a>, <a href="https://www.tandfonline.com/journals/hhci20">Human-Computer Interaction</a>, and <a href="https://www.sciencedirect.com/journal/computers-in-human-behavior">Computers in Human Behavior</a>.  
+My work at CMU is supported by the <a href="https://sloan.org/">Alfred P. Sloan Foundation</a>, “Enhancing Scientific Software
+Sustainability Through Community Code Engagements" and the <a href="https://www.nsf.gov/">National Science Foundation (NSF)</a>, and has been published in major computer science conferences and journals including <a href="https://dl.acm.org/conference/cscw">ACM CSCW</a>, <a href="https://www.computer.org/csdl/magazine/so">IEEE Software</a>, <a href="https://www.tandfonline.com/journals/hhci20">Human-Computer Interaction</a>, and <a href="https://www.sciencedirect.com/journal/computers-in-human-behavior">Computers in Human Behavior</a>.  
 </p>
 
 <p>
