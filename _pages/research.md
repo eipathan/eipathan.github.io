@@ -8,7 +8,7 @@ permalink: /research/
 {% include base_path %}
 
 <p style="text-align: justify">
-My research aims at contributing to the therory of coordination with a particular focus on the effective and efficient dissemination and coordination of work in an open connected network of networks, each either “adapting” digital artifacts for independent missions or producing work “perfecting” the original digital artifact, through an empirical case study research approach employing ethnography (interviews and non-participant observations), and archival analysis (quantitative collection and analysis of logs and trace data with Python, SQL, and R), and a combination of all of these methods (mixed-methods) as relevant. 
+My research aims at contributing to the therory of coordination with a particular focus on the effective and efficient dissemination and coordination of work in an open connected network of networks, each either “adapting” digital artifacts for independent missions or producing work “perfecting” the original digital artifact, through an empirical case study research approach employing ethnography (interviews and non-participant observations), and archival analysis (quantitative collection and analysis of logs and trace data with Python, R, and Dedoose), and a combination of all of these methods (mixed-methods) as relevant. 
 </p>
 
 <p style="text-align: justify">
