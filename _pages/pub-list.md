@@ -149,7 +149,7 @@ Pe-Than, E.P.P., Goh, D.H.-L. and Lee, C.S. (2017), Does it matter how you play?
 
 <li>
 <p style="text-align: justify">
-Pe-Than, E.P.P., Nolte, A., Filippova, A., Bird, C., Scallen, S., and Herbsleb, J.D. (2018). Designing Corporate Hackathons with a Purpose. <i>IEEE Software, 36 </i>(1), 15–22. Presented as journal first paper at <i>the 27th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE)</i>, August 26–30 2019, Tallinn, Estonia. (<a href="https://doi.org/10.1109/MS.2018.290110547">doi</a> | <a href="https://epppt.github.io/files/Pe-Than-ieeesw-2018.pdf">pdf</a> | <a href="https://epppt.github.io/files/FSE-slides-2019.pdf">slides</a> | <a href="(<a href="https://esec-fse19.ut.ee/">website</a>)
+Pe-Than, E.P.P., Nolte, A., Filippova, A., Bird, C., Scallen, S., and Herbsleb, J.D. (2018). Designing Corporate Hackathons with a Purpose. <i>IEEE Software, 36 </i>(1), 15–22. Presented as journal first paper at <i>the 27th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE)</i>, August 26–30 2019, Tallinn, Estonia. (<a href="https://doi.org/10.1109/MS.2018.290110547">doi</a> | <a href="https://epppt.github.io/files/Pe-Than-ieeesw-2018.pdf">pdf</a> | <a href="https://epppt.github.io/files/FSE-slides-2019.pdf">slides</a> | <a href="https://esec-fse19.ut.ee/">website</a>)
 </p>
 </li>
 </ol>
