@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <p style="text-align: justify">
-I completed my postdoctoral research fellowship in 2020 at the <a href="https://cmu.edu">Carnegie Mellon University</a>'s <a href="https://www.scs.cmu.edu/">School of Computer Science</a>'s <a href="https://s3d.cmu.edu/">Software and Societal Systems Department</a> (formerly Institute for Software Research) in Pittsburgh, PA, USA, where my advisor is <a href="https://herbsleb.org/">James Herbsleb</a>, after receiving a PhD in Information Science and a MSc in Information Systems in 2016 and 2009 respectively from the <a href="https://www.ntu.edu.sg/">Nanyang Technological University</a> in Singapore, and a BSc (Hons.) in Computer Science from the University of Computer Studies in Yangon, Myanmar.
+I completed my postdoctoral research fellowship in 2020 at the <a href="https://cmu.edu">Carnegie Mellon University</a>'s <a href="https://www.scs.cmu.edu/">School of Computer Science</a>'s <a href="https://s3d.cmu.edu/">Software and Societal Systems Department</a> (formerly Institute for Software Research) in Pittsburgh, PA, USA, where my advisor is <a href="https://herbsleb.org/">James Herbsleb</a>, after receiving a PhD in Human-Computer Interaction and a MSc in Information Systems in 2016 and 2009 respectively from the <a href="https://www.ntu.edu.sg/">Nanyang Technological University</a> in Singapore, and a BSc (Hons.) in Computer Science from the University of Computer Studies in Yangon, Myanmar.
 </p>
 
 <p style="text-align: justify">
