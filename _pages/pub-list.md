@@ -56,7 +56,7 @@ Goh, D. H-L, Pe-Than, E. P. P., and Lee, C. S. (2017). Perceptions of virtual re
 </ol>
 
 <h2>Peer-Reviewed Conferences</h2>
-<ol>
+<ol start="7">
 <li>
 <p style="text-align: justify">
 Pe-Than, E.P.P. and Herbsleb, J.D. (2019). Understanding Hackathons for Science: Collaboration, Affordances, and Outcomes. In: <i>Taylor, N., Christian-Lamb, C., Martin, M., Nardi, B. (eds) Information in Contemporary Society. iConference 2019. Lecture Notes in Computer Science, vol 11420</i>, pp. 27–37. Springer, Cham. (<a href="https://doi.org/10.1007/978-3-030-15742-5_3">doi</a> | <a href="https://epppt.github.io/files/iConference-2019.pdf">pdf</a>)
@@ -89,7 +89,7 @@ Pe-Than, E.P.P., Goh, D.HL., Lee, C.S. (2012). Enjoyment of a Mobile Information
 </ol>
 
 <h2>Technical reports</h2>
-<ol>
+<ol start="12">
 <li>
 <p style="text-align: justify">
 Pe-Than, E.P.P., and Nolte, A. (2018). The 2nd Workshop on Hacking and Making at Time-Bounded Events. <i>Technical Report CMU-ISR-18-109</i>, Carnegie Mellon University. (<a href="http://epppt.github.io/files/ISR-techreport-2018.pdf">pdf</a> | <a href="https://epppt.github.io/hackathon-workshop-2018/">website</a>)
@@ -98,7 +98,7 @@ Pe-Than, E.P.P., and Nolte, A. (2018). The 2nd Workshop on Hacking and Making at
 </ol>
 
 <h2>Posters</h2>
-<ol>
+<ol start="13">
 <li>
 <p style="text-align: justify">
 Pe-Than, E.P.P., Dabbish, L., and Herbsleb, J.D. (2019). Collaborative Writing at Scale: A Case Study of Two Open-Text Projects Done on GitHub. Presented at <i>the annual meeting of Human Computer Interaction Consortium (HCIC'19): The Future of Work</i>, June 23–27, Pajaro Dunes, Watsonville, CA, USA. (<a href="http://epppt.github.io/files/HCIC-poster-2019.pdf">pdf</a> | <a href="https://hcic.org/about/">website</a>)
@@ -131,7 +131,7 @@ Pe-Than, E.P.P., Nolte, A., Filippova, A., Bird, C., Scallen, S. and Herbsleb, J
 </ol>
 
 <h2>Selected other papers</h2>
-<ol>
+<ol start="18">
 <li>
 <p style="text-align: justify">
 Alexander Nolte, Ei Pa Pa Pe-Than, Abasi-amefon Obot Affia, Chalalai Chaihirunkarn, Anna Filippova, Arun Kalyanasundaram, Maria Angelica Medina Angarita, Erik Trainer, and James D. Herbsleb. (2020). How to organize a hackathon -- A planning kit. (<a href="https://doi.org/10.48550/arXiv.2008.08025">doi</a> | <a href="https://arxiv.org/abs/2008.08025v2">link</a> | <a href="https://epppt.github.io/files/nolte-arxiv-2020.pdf">pdf</a> | <a href="https://hackathon-planning-kit.org/">planning-kit</a>)
@@ -140,7 +140,7 @@ Alexander Nolte, Ei Pa Pa Pe-Than, Abasi-amefon Obot Affia, Chalalai Chaihirunka
 </ol>
 
 <h2>Presentations</h2>
-<ol>
+<ol start="19">
 <li>
 <p style="text-align: justify">
 Pe-Than, E.P.P., Goh, D.H.-L. and Lee, C.S. (2017), Does it matter how you play? The effects of collaboration and competition among players of human computation games. Journal of the Association for Information Science and Technology, 68, 1823–1835. Presented at <i>the 66th annual conference of the International Communication Association (ICA)</i>, June 9–13 2016, Fukuoka, Japan. (<a href="https://doi.org/10.1002/asi.23863">doi</a> | <a href="https://epppt.github.io/files/JASIST-2017.pdf">pdf</a> | <a href="https://convention2.allacademic.com/one/ica/ica16/index.php?cmd=Online+Program+View+Paper&selected_paper_id=1108055&PHPSESSID=gbijbptqpls11hfu93og1j87bp">link</a> | <a href="https://convention2.allacademic.com/one/ica/ica16/index.php?cmd=Prepare+Online+Program&program_focus=main&PHPSESSID=gbijbptqpls11hfu93og1j87bp">website</a>)
