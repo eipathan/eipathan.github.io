@@ -31,11 +31,13 @@ Pe-Than, E.P.P., Nolte, A., Filippova, A., Bird, C., Scallen, S., and Herbsleb, 
 </p>
 </li>
 
+<!--
 <li>
 <p style="text-align: justify">
 Pe-Than, E.P.P., Goh, D.H.-L. and Lee, C.S. (2017), Does it matter how you play? The effects of collaboration and competition among players of human computation games. <i>Journal of the Association for Information Science and Technology, 68</i>, 1823–1835. (<a href="https://doi.org/10.1002/asi.23863">doi</a> | <a href="https://epppt.github.io/files/JASIST-2017.pdf">pdf</a>)
 </p>
 </li>
+-->
 
 <!--
 <p style="text-align: justify">
@@ -48,11 +50,13 @@ Pe-Than, E.P.P., Goh, D.H-L, and Lee, C.S. (2014). Making work fun. <i>Computers
 </p>
 </li>
 
+<!--
 <li>
 <p style="text-align: justify">
 Goh, D. H-L, Pe-Than, E. P. P., and Lee, C. S. (2017). Perceptions of virtual reward systems in crowdsourcing games. <i>Computers in Human Behavior, Volume 70 </i>(May 2017), 365–374. (<a href="https://doi.org/10.1016/j.chb.2017.01.006">doi</a> | <a href="https://epppt.github.io/files/goh-chb-2017.pdf">pdf</a>)
 </p>
 </li>
+-->
 </ol>
 
 <h2>Peer-Reviewed Conferences</h2>
