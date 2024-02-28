@@ -95,7 +95,8 @@ $reddit-color               : #ff4500;
 
 /* links */
 $link-color                 : $test-color;
-$link-color-hover           : mix(#000, $test-color, 25%);
+//$link-color-hover           : $test-color;
+$link-color-hover           : mix(#000, $link-color, 25%);
 // $link-color-hover           : $sustainable-color;
 $link-color-visited         : mix(#fff, $test-color, 25%);
 $masthead-link-color        : $primary-color;
