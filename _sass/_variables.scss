@@ -68,6 +68,7 @@ $info-color                 : #52adc8;
 $sustainable-color          : #4285F4;
 //$test-color                 : #859900;
 $test-color                 : #289928;
+$l-color                    : #6b8e23; 
 
 /* brands */
 $behance-color              : #1769FF;
@@ -94,9 +95,9 @@ $reddit-color               : #ff4500;
 
 
 /* links */
-$link-color                 : $test-color;
-$link-color-hover           : mix(#000, $test-color, 25%);
-$link-color-visited         : mix(#fff, $test-color, 25%);
+$link-color                 : $l-color;
+$link-color-hover           : mix(#000, $l-color, 25%);
+$link-color-visited         : mix(#fff, $l-color, 25%);
 $masthead-link-color        : $primary-color;
 $masthead-link-color-hover  : mix(#000, $primary-color, 25%);
 
