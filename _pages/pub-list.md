@@ -46,7 +46,7 @@ Pe-Than, E. P. P., Goh, D. H-L, and Lee, C.S. (2015) A typology of human computa
 -->
 <li>
 <p style="text-align: justify">
-Pe-Than, E.P.P., Goh, D.H-L, and Lee, C.S. (2014). Making work fun. <i>Computers in Human Behavior, 39 </i>(C), 88–99. (<a href="https://doi.org/10.1016/j.chb.2014.06.023">doi</a> | <a href="https://epppt.github.io/files/CHB-2014.pdf">pdf</a>)
+Pe-Than, E.P.P., Goh, D.H-L, and Lee, C.S. (2014). Making work fun: Investigating antecedents of perceived enjoyment in human computation games for information sharing. <i>Computers in Human Behavior, 39 </i>(C), 88–99. (<a href="https://doi.org/10.1016/j.chb.2014.06.023">doi</a> | <a href="https://epppt.github.io/files/CHB-2014.pdf">pdf</a>)
 </p>
 </li>
 
@@ -75,7 +75,7 @@ Nolte, A., Pe-Than, E.P.P., Filippova, A., Bird, C., Scallen, S., and Herbsleb, 
 
 <li>
 <p style="text-align: justify">
-Pe-Than, E.P.P., Dabbish, L., and Herbsleb, J.D. (2018). Collaborative Writing on GitHub: A Case Study of a Book Project. In <i>Companion of the 2018 ACM Conference on Computer Supported Cooperative Work and Social Computing (CSCW’18)</i>, pp. 305–308. (<a href="https://doi.org/10.1145/3272973.3274083">doi</a> | <a href="https://epppt.github.io/files/CSCW-abstract-2018.pdf">pdf</a> | poster)
+Pe-Than, E.P.P., Dabbish, L., and Herbsleb, J.D. (2018). Collaborative Writing on GitHub: A Case Study of a Book Project. In <i>Companion of the 2018 ACM Conference on Computer Supported Cooperative Work and Social Computing (CSCW’18)</i>, pp. 305–308. (<a href="https://doi.org/10.1145/3272973.3274083">doi</a> | <a href="https://epppt.github.io/files/CSCW-abstract-2018.pdf">pdf</a> | <a href="https://epppt.github.io/files/pethan-poster-cscw2018.pdf">poster</a>)
 </p>
 </li>
 
@@ -111,13 +111,13 @@ Pe-Than, E.P.P., Dabbish, L., and Herbsleb, J.D. (2019). Collaborative Writing a
 
 <li>
 <p style="text-align: justify">
-Pe-Than, E.P.P., Dabbish, L., and Herbsleb, J.D. (2019). Collaborative Writing at Scale: A Case Study of Two Open-Text Projects Done on GitHub. Presented at <i>the 7th ACM Conference on Collective Intelligence 2019 (CI'19)</i>, June 13–14, Pittsburgh, PA, USA. (<a href="https://ci.acm.org/2019/assets/proceedings/CI_2019_paper_65.pdf">link</a> | <a href="http://epppt.github.io/files/CI-poster-2019.pdf">pdf</a> | <a href="https://ci.acm.org/2019/#/">website</a>)
+Pe-Than, E.P.P., Dabbish, L., and Herbsleb, J.D. (2019). Collaborative Writing at Scale: A Case Study of Two Open-Text Projects Done on GitHub. Presented at <i>the 7th ACM Conference on Collective Intelligence 2019 (CI'19)</i>, June 13–14, Pittsburgh, PA, USA. (<a href="https://ci.acm.org/2019/assets/proceedings/CI_2019_paper_65.pdf">url</a> | <a href="http://epppt.github.io/files/CI-poster-2019.pdf">pdf</a> | <a href="https://ci.acm.org/2019/#/">website</a>)
 </p>
 </li>
 
 <li>
 <p style="text-align: justify">
-Pe-Than, E.P.P., Momcheva, I., Tolleud, E., and Herbsleb, J.D. (2019). Hackathons for Science, How and Why? Presented at <i>the 233rd Meeting of the American Astronomical Society, AAS Meeting #233, id.459.11</i>, January 6–10, Seattle, Washington, USA. (<a href="https://ui.adsabs.harvard.edu/abs/ 2019AAS...23345911P/abstract">link</a> | <a href="https://epppt.github.io/files/AAS-poster-2019.pdf">pdf</a> | <a href="https://aas.org/meetings/aas233">website</a>)
+Pe-Than, E.P.P., Momcheva, I., Tolleud, E., and Herbsleb, J.D. (2019). Hackathons for Science, How and Why? Presented at <i>the 233rd Meeting of the American Astronomical Society, AAS Meeting #233, id.459.11</i>, January 6–10, Seattle, Washington, USA. (<a href="https://ui.adsabs.harvard.edu/abs/ 2019AAS...23345911P/abstract">url</a> | <a href="https://epppt.github.io/files/AAS-poster-2019.pdf">pdf</a> | <a href="https://aas.org/meetings/aas233">website</a>)
 </p>
 </li>
 
@@ -138,7 +138,7 @@ Pe-Than, E.P.P., Nolte, A., Filippova, A., Bird, C., Scallen, S. and Herbsleb, J
 <ol start="18">
 <li>
 <p style="text-align: justify">
-Alexander Nolte, Ei Pa Pa Pe-Than, Abasi-amefon Obot Affia, Chalalai Chaihirunkarn, Anna Filippova, Arun Kalyanasundaram, Maria Angelica Medina Angarita, Erik Trainer, and James D. Herbsleb. (2020). How to organize a hackathon -- A planning kit. (<a href="https://doi.org/10.48550/arXiv.2008.08025">doi</a> | <a href="https://arxiv.org/abs/2008.08025v2">link</a> | <a href="https://epppt.github.io/files/nolte-arxiv-2020.pdf">pdf</a> | <a href="https://hackathon-planning-kit.org/">planning-kit</a>)
+Alexander Nolte, Ei Pa Pa Pe-Than, Abasi-amefon Obot Affia, Chalalai Chaihirunkarn, Anna Filippova, Arun Kalyanasundaram, Maria Angelica Medina Angarita, Erik Trainer, and James D. Herbsleb. (2020). How to organize a hackathon -- A planning kit. (<a href="https://doi.org/10.48550/arXiv.2008.08025">doi</a> | <a href="https://arxiv.org/abs/2008.08025v2">url</a> | <a href="https://epppt.github.io/files/nolte-arxiv-2020.pdf">pdf</a> | <a href="https://hackathon-planning-kit.org/">planning-kit</a>)
 </p>
 </li>
 </ol>
@@ -147,13 +147,13 @@ Alexander Nolte, Ei Pa Pa Pe-Than, Abasi-amefon Obot Affia, Chalalai Chaihirunka
 <ol start="19">
 <li>
 <p style="text-align: justify">
-Pe-Than, E.P.P., Goh, D.H.-L. and Lee, C.S. (2017), Does it matter how you play? The effects of collaboration and competition among players of human computation games. Journal of the Association for Information Science and Technology, 68, 1823–1835. Presented at <i>the 66th annual conference of the International Communication Association (ICA)</i>, June 9–13 2016, Fukuoka, Japan. (<a href="https://doi.org/10.1002/asi.23863">doi</a> | <a href="https://epppt.github.io/files/JASIST-2017.pdf">pdf</a> | <a href="https://convention2.allacademic.com/one/ica/ica16/index.php?cmd=Online+Program+View+Paper&selected_paper_id=1108055&PHPSESSID=gbijbptqpls11hfu93og1j87bp">link</a> | <a href="https://convention2.allacademic.com/one/ica/ica16/index.php?cmd=Prepare+Online+Program&program_focus=main&PHPSESSID=gbijbptqpls11hfu93og1j87bp">website</a>)
+Pe-Than, E.P.P., Goh, D.H.-L. and Lee, C.S. (2017), Does it matter how you play? The effects of collaboration and competition among players of human computation games. Journal of the Association for Information Science and Technology, 68, 1823–1835. Presented at <i>the 66th annual conference of the International Communication Association (ICA)</i>, June 9–13 2016, Fukuoka, Japan. (<a href="https://doi.org/10.1002/asi.23863">doi</a> | <a href="https://epppt.github.io/files/JASIST-2017.pdf">pdf</a> | <a href="https://convention2.allacademic.com/one/ica/ica16/index.php?cmd=Online+Program+View+Paper&selected_paper_id=1108055&PHPSESSID=gbijbptqpls11hfu93og1j87bp">url</a> | <a href="https://convention2.allacademic.com/one/ica/ica16/index.php?cmd=Prepare+Online+Program&program_focus=main&PHPSESSID=l8jpvg1ibuq0ve5oafkamfprrm">website</a>)
 </p>
 </li>
 
 <li>
 <p style="text-align: justify">
-Pe-Than, E.P.P., Nolte, A., Filippova, A., Bird, C., Scallen, S., and Herbsleb, J.D. (2018). Designing Corporate Hackathons with a Purpose. <i>IEEE Software, 36 </i>(1), 15–22. Presented as journal first paper at <i>the 27th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE)</i>, August 26–30 2019, Tallinn, Estonia. (<a href="https://doi.org/10.1109/MS.2018.290110547">doi</a> | <a href="https://epppt.github.io/files/Pe-Than-ieeesw-2018.pdf">pdf</a> | <a href="https://epppt.github.io/files/FSE-slides-2019.pdf">slides</a> | <a href="https://esec-fse19.ut.ee/">website</a>)
+Pe-Than, E.P.P., Nolte, A., Filippova, A., Bird, C., Scallen, S., and Herbsleb, J.D. (2018). Designing Corporate Hackathons with a Purpose. <i>IEEE Software, 36 </i>(1), 15–22. Presented as journal first paper at <i>the 27th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE)</i>, August 26–30 2019, Tallinn, Estonia. (<a href="https://doi.org/10.1109/MS.2018.290110547">doi</a> | <a href="https://epppt.github.io/files/Pe-Than-ieeesw-2018.pdf">pdf</a> | <a href="https://esec-fse19.ut.ee/program/journal-first/#">url</a> | <a href="https://epppt.github.io/files/FSE-slides-2019.pdf">slides</a> | <a href="https://esec-fse19.ut.ee/">website</>)
 </p>
 </li>
 </ol>
