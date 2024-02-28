@@ -95,12 +95,10 @@ $reddit-color               : #ff4500;
 
 /* links */
 $link-color                 : $test-color;
-//$link-color-hover           : $test-color;
-$link-color-hover           : mix(#000, $link-color, 25%);
-// $link-color-hover           : $sustainable-color;
+//$link-color-hover           : mix(#000, $test-color, 25%);
+$link-color-hover           : #5cb35c;
 $link-color-visited         : mix(#fff, $test-color, 25%);
 $masthead-link-color        : $primary-color;
-//$masthead-link-color        : $sustainable-color;
 $masthead-link-color-hover  : mix(#000, $primary-color, 25%);
 
 /*
