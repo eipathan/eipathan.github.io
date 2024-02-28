@@ -60,7 +60,7 @@ Goh, D. H-L, Pe-Than, E. P. P., and Lee, C. S. (2017). Perceptions of virtual re
 </ol>
 
 <h2>Peer-Reviewed Conferences</h2>
-<ol start="7">
+<ol start="5">
 <li>
 <p style="text-align: justify">
 Pe-Than, E.P.P. and Herbsleb, J.D. (2019). Understanding Hackathons for Science: Collaboration, Affordances, and Outcomes. In: <i>Taylor, N., Christian-Lamb, C., Martin, M., Nardi, B. (eds) Information in Contemporary Society. iConference 2019. Lecture Notes in Computer Science, vol 11420</i>, pp. 27–37. Springer, Cham. (<a href="https://doi.org/10.1007/978-3-030-15742-5_3">doi</a> | <a href="https://epppt.github.io/files/iConference-2019.pdf">pdf</a>)
