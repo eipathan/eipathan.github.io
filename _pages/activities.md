@@ -6,9 +6,8 @@ permalink: /activities/
 ---
 
 {% include base_path %}
-
-<h2>Organizing</h2>
 <p>
+<h2>Organizing</h2>
 Co-organizer, Four hack days with NASA's Hubble Space Telescope (HST) team at the Space Telescope Science Institute (<a href="https://www.stsci.edu/home">STScI</a>), Baltimore, MD, USA (March 2018–February 2019) <br>
 Co-organizer, <a href="https://github.com/woc-hack">World of Code (WoC) Hackathon</a>, Carnegie Mellon University, Pittsburgh, PA, USA (November 1–3, 2019) <br>
 Co-organizer, <a href="http://hackhpc.org/pasthacks/#pearc18">Science Gateways Hackathon</a> by the Science Gateways Community Institute (<a href="https://sciencegateways.org/">SGCI</a>), collocated with PEARC18 Conference, Wyndham Grand Pittsburgh, PA, USA (July 23-27, 2018) <br>
