@@ -13,11 +13,11 @@ I completed my postdoctoral research fellowship in 2020 at the <a href="https://
 </p>
 
 <p style="text-align: justify">
-My research interest lies in the area of collaboration and coordination, and I investigates how collaboration and coordination unfolds in work teams in time-bounded events (e.g., hackathons for education, entrepreneurship, and community building) and in an open connected digital network of networks (e.g., GitHub.com), and devises practises and guidelines to shape their future coordination for better outcomes.
+My research interest lies in the area of collaboration and coordination, and I investigate how these actions unfolds <i>in</i> time-bounded events (e.g., hackathons) with various purposes in contexts including education, scientific communities, and software business, and an open digital network (e.g., GitHub.com where individuals or teams of developers collectively produce digital software or non-software artifacts, and devise practises and guidelines to shape future coordination processes.
 </p>
 
 <p style="text-align: justify">
-My research at CMU is supported by the <a href="https://sloan.org/">Alfred P. Sloan Foundation</a>, <!--“Enhancing Scientific Software Sustainability Through Community Code Engagements"--> and the U.S. National Science Foundation (<a href="https://www.nsf.gov/">NSF</a>), and has been published in major computer science conferences and journals including <a href="https://dl.acm.org/conference/cscw">ACM CSCW</a>, <a href="https://www.computer.org/csdl/magazine/so">IEEE Software</a>, <a href="https://www.tandfonline.com/journals/hhci20">Human-Computer Interaction</a>, and <a href="https://www.sciencedirect.com/journal/computers-in-human-behavior">Computers in Human Behavior</a>.  
+My work at CMU is supported by the U.S. National Science Foundation (<a href="https://www.nsf.gov/">NSF</a>), and <a href="https://sloan.org/">Alfred P. Sloan Foundation</a> <!--“Enhancing Scientific Software Sustainability Through Community Code Engagements"-->, and has been published in major computer science conferences and journals including <a href="https://dl.acm.org/journal/pacmhci">PACMHCI (CSCW)</a>, <a href="https://www.computer.org/csdl/magazine/so">IEEE Software</a>, <a href="https://www.tandfonline.com/journals/hhci20">Human-Computer Interaction</a>, and <a href="https://www.sciencedirect.com/journal/computers-in-human-behavior">Computers in Human Behavior</a>.  
 </p>
 
 <p>

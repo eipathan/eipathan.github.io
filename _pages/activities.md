@@ -7,7 +7,7 @@ permalink: /activities/
 
 {% include base_path %}
 
-<h2 class="western">Organizing</h2>
+<h2>Organizing</h2>
 <p>
 Co-organizer, Four hack days with NASA's Hubble Space Telescope (HST) team at the Space Telescope Science Institute (<a href="https://www.stsci.edu/home">STScI</a>), Baltimore, MD, USA (March 2018–February 2019) <br>
 Co-organizer, <a href="https://github.com/woc-hack">World of Code (WoC) Hackathon</a>, Carnegie Mellon University, Pittsburgh, PA, USA (November 1–3, 2019) <br>
@@ -24,7 +24,7 @@ Reviewer, European Conference on Information Systems (ECIS) <br>
 Reviewer, International Conference on Asian Digital Libraries (ICADL) <br>
 </p>
 
-<p style="text-align: justify">
+<p>
 <h2 class="western">Volunteering</h2>
 Student volunteer, CMU’s School of Computer Science’s 2020 Presidential Election’s Voting Study Committee (2020) <br>
 Student volunteer, The 66th Annual Conference of the International Communication Association (ICA), Fukuoka, Japan (June 9-13, 2016) <br>
@@ -33,7 +33,7 @@ Student volunteer, International Conference on Social Informatics (SocInfo 2011)
 </p>
 
 <h2 class="western">Membership</h2>
-<p style="text-align: justify">
+<p>
 Member, Association for Computing Machinery (ACM) <br>
 Member, Special Interest Group on Computer-Human Interaction (ACM SIGCHI) <br>
 </p>
