@@ -57,17 +57,17 @@ author_profile: true
   <td>Business and Management Sources & Services (G)</td>
 </tr>
 <tr>
-  <td colspan="2"><b>Trainee Tutor</b></td>
-  <td><b>University of Computer Studies, Yangon, Myanmar.</b></td>
+  <th colspan="2"><b>Trainee Tutor</b></th>
+  <th><b>University of Computer Studies, Yangon, Myanmar.</b></th>
 </tr>
 <tr>
-  <td colspan="2" rowspan="2">AY 2006/2007</td>
+  <td colspan="2" rowspan="2" style="vertical-align:top">AY 2006/2007</td>
   <td>Fundamentals of Data Structures (U)</td>
 </tr>
 <tr>
   <td>Operating Systems (U)</td>
 </tr>
-<tr colspan="3">
-  <p style="font-size: 1em; color:#cc0000;">G=Graduate level; U=Undergraduate level; AY=Academic year; MTI=Mean teaching index.</p>
+<tr colspan="3" style="font-size:1em; color:#cc0000">
+  G=Graduate level; U=Undergraduate level; AY=Academic year; MTI=Mean teaching index.
 </tr>
 </table>
