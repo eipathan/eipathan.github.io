@@ -10,7 +10,7 @@ table {
   font-size: $type-size-5;
   border-collapse: collapse;
   //border: 1px solid $light-gray;
-  border: none;
+  border-bottom: 1px solid lightgreen;
 
   & + table {
     margin-top: 1em;
@@ -27,7 +27,7 @@ th {
   font-weight: bold;
   text-align: left;
   //border-right: 1px solid $light-gray;
-  border-top: 1px solid $light-gray;
+  border-top: 1px solid lightgreen;
 }
 
 td {

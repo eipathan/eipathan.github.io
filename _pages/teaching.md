@@ -10,7 +10,11 @@ author_profile: true
   I have taught the courses at undergraduate and graudate levels at the Nanyang Technological University, Signapore and the University of Computer Studies, Yangon, Myanmar. 
 </p>
 
+<div>
 <table>
+<tr>
+  <td colspan="3" style="font-size: 0.75em; color:#cc0000;">G=Graduate level; U=Undergraduate level; AY=Academic year; MTI=Mean teaching index.</td>
+</tr>
 <tr>
   <th colspan="2"><b>Instructor</b></th>
   <th><b>Nanyang Technological University, Singapore.</b></th> 
@@ -71,3 +75,4 @@ author_profile: true
   G=Graduate level; U=Undergraduate level; AY=Academic year; MTI=Mean teaching index.
 </tr>-->
 </table>
+</div>
