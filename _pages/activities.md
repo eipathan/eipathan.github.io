@@ -29,7 +29,7 @@ permalink: /activities/
 </li>
 <li>
     ACM Conference on Computer-Supported Cooperative Work (<a href="https://dl.acm.org/conference/cscw">CSCW</a>) <a href="https://cscw.acm.org/2018/program/">2018</a>
-<li>
+</li>
 <li>
     <a href="https://www.ischools.org/">iConference</a> <a href="https://www.ischools.org/past-conferences/2019">2019</a>
 </li>
