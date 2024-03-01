@@ -9,7 +9,7 @@ permalink: /activities/
 <h2>Organizing</h2>
 <ul>
 <li>
-    World of Code (WoC) Hackathon, Carnegie Mellon University, Pittsburgh, PA, USA (November 1–3, 2019) (<a href=https://github.com/woc-hack>website</a>)
+    World of Code (WoC) Hackathon, Carnegie Mellon University, Pittsburgh, PA, USA (November 1–3, 2019) (<a href="https://github.com/woc-hack">website</a>)
 </li>
 <li>
     Four hack days with NASA’s <a href="https://hubblesite.org/home">Hubble Space Telescope team</a>, Space Telescope Science Institute (<a href="https://www.stsci.edu/home">STScI</a>), Baltimore, MD, USA (March 2018–February 2019)
@@ -21,6 +21,7 @@ permalink: /activities/
     The 2nd Workshop on Hacking and Making at Time-Bounded Events: Current Trends and Next Steps in Research and Event Design at ACM CHI'18 conference, Palais des Congrès de Montréal, Montreal, Canada (April 22, 2018) (<a href="https://epppt.github.io/hackathon-workshop-2018/">website</a> | <a href="http://epppt.github.io/files/ISR-techreport-2018.pdf">report</a>)
 </li>
 </ul>
+<br>
 
 <h2 class="western">Reviewing</h2>
 <ul>
@@ -58,6 +59,7 @@ permalink: /activities/
     Cyberpsychology, Behavior, and Social Networking
 </li>
 </ul>
+<br>
 
 <h2 class="western">Volunteering</h2>
 <ul>
@@ -74,7 +76,7 @@ permalink: /activities/
     International Conference on Social Informatics (SocInfo 2011), Singapore Management University, Singapore (October 6–8, 2011)
 </li>
 </ul>
-
+<br>
 
 <h2 class="western">Membership</h2>
 <ul>
