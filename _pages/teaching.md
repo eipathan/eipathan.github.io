@@ -30,10 +30,6 @@ author_profile: true
   <td>IN9008</td>
   <td>Digital Social Games for Organizations (U; MTI 71.86)</td>
 </tr>
-</table>
-<br>
-
-<table>
 <tr>
   <th colspan="2"><b>Teaching Assistant</b></th>
   <th><b>Nanyang Technological University, Singapore.</b></th>
@@ -60,10 +56,6 @@ author_profile: true
   <td>H6723</td>
   <td>Business and Management Sources & Services (G)</td>
 </tr>
-</table>
-
-<br>
-<table>
 <tr>
   <td colspan="2"><b>Trainee Tutor</b></td>
   <td><b>University of Computer Studies, Yangon, Myanmar.</b></td>
@@ -74,5 +66,9 @@ author_profile: true
 </tr>
 <tr>
   <td>Operating Systems (U)</td>
+</tr>
+
+<tr colspan="3">
+  <p style="font-size: 0.75em; color:#cc0000;">G=Graduate level; U=Undergraduate level; AY=Academic year; MTI=Mean teaching index.</p>
 </tr>
 </table>

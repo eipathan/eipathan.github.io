@@ -23,18 +23,18 @@ thead {
 }
 
 th {
-  padding: 0.5em;
+  padding: 0.25em;
   font-weight: bold;
   text-align: left;
-  //border-right: 1px solid $light-gray;
+  border-right: 1px solid $light-gray;
 }
 
 td {
-  padding: 0.5em;
+  padding: 0.25em;
   //border-bottom: 1px solid $light-gray;
   //border-right: 1px solid $light-gray;
 }
 
 tr, td, th {
-  vertical-align: middle;
+  vertical-align: top;//middle;
 }
