@@ -13,9 +13,6 @@ author_profile: true
 <div>
 <table>
 <tr>
-  <td colspan="3" style="font-size: 0.75em; color:#cc0000;">G=Graduate level; U=Undergraduate level; AY=Academic year; MTI=Mean teaching index.</td>
-</tr>
-<tr>
   <th colspan="2"><b>Instructor</b></th>
   <th><b>Nanyang Technological University, Singapore.</b></th> 
 </tr>
@@ -74,5 +71,8 @@ author_profile: true
 <!--<tr colspan="3" style="font-size:1em; font-color:red;">
   G=Graduate level; U=Undergraduate level; AY=Academic year; MTI=Mean teaching index.
 </tr>-->
+<tr>
+  <td colspan="3" style="font-size: 1em; color:#cc0000;">G=Graduate level; U=Undergraduate level; AY=Academic year; MTI=Mean teaching index.</td>
+</tr>
 </table>
 </div>
