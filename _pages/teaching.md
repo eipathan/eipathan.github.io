@@ -13,6 +13,9 @@ author_profile: true
 <div>
 <table>
 <tr>
+  <td colspan="3" style="font-size: 0.80em; color:#cc0000;">(G) Graduate level; (U) Undergraduate level; (AY) Academic year; (MTI) Mean teaching index.</td>
+</tr>
+<tr>
   <th colspan="2"><b>Instructor</b></th>
   <th><b>Nanyang Technological University, Singapore.</b></th> 
 </tr>
@@ -31,6 +34,7 @@ author_profile: true
   <td>IN9008</td>
   <td>Digital Social Games for Organizations (U; MTI 71.86)</td>
 </tr>
+<tr><td colspan="3"></td></tr>
 <tr>
   <th colspan="2"><b>Teaching Assistant</b></th>
   <th><b>Nanyang Technological University, Singapore.</b></th>
@@ -57,6 +61,7 @@ author_profile: true
   <td>H6723</td>
   <td>Business and Management Sources & Services (G)</td>
 </tr>
+<tr><td colspan="3"></td></tr>
 <tr>
   <th colspan="2"><b>Trainee Tutor</b></th>
   <th><b>University of Computer Studies, Yangon, Myanmar.</b></th>
@@ -67,12 +72,6 @@ author_profile: true
 </tr>
 <tr>
   <td>Operating Systems (U)</td>
-</tr>
-<!--<tr colspan="3" style="font-size:1em; font-color:red;">
-  G=Graduate level; U=Undergraduate level; AY=Academic year; MTI=Mean teaching index.
-</tr>-->
-<tr>
-  <td colspan="3" style="font-size: 1em; color:#cc0000;">G=Graduate level; U=Undergraduate level; AY=Academic year; MTI=Mean teaching index.</td>
 </tr>
 </table>
 </div>
