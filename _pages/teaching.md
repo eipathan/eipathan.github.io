@@ -67,8 +67,7 @@ author_profile: true
 <tr>
   <td>Operating Systems (U)</td>
 </tr>
-
 <tr colspan="3">
-  <p style="font-size: 0.75em; color:#cc0000;">G=Graduate level; U=Undergraduate level; AY=Academic year; MTI=Mean teaching index.</p>
+  <p style="font-size: 1em; color:#cc0000;">G=Graduate level; U=Undergraduate level; AY=Academic year; MTI=Mean teaching index.</p>
 </tr>
 </table>
