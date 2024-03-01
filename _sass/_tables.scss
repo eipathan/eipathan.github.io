@@ -26,7 +26,8 @@ th {
   padding: 0.25em;
   font-weight: bold;
   text-align: left;
-  border-right: 1px solid $light-gray;
+  //border-right: 1px solid $light-gray;
+  border-top: 2px solid $light-gray;
 }
 
 td {
@@ -36,5 +37,5 @@ td {
 }
 
 tr, td, th {
-  vertical-align: top;//middle;
+  vertical-align: middle;
 }
