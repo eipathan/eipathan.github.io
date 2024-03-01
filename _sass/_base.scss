@@ -170,11 +170,15 @@ hr {
 ul li,
 ol li {
   margin-bottom: 0.5em;
+  //change the line height of list item by EPT.
+  line-height: 1;
 }
 
 li ul,
 li ol {
   margin-top: 0.5em;
+  //change the line height of list item by EPT.
+  line-height: 1;
 }
 
 /*
