@@ -23,7 +23,7 @@ permalink: /activities/
 </ul>
 <br>
 
-<h2 class="western">Reviewing</h2>
+<h2>Reviewing</h2>
 <ul>
 <li>
     ACM Conference on Computer-Human Interaction (<a href="https://dl.acm.org/sig/sigchi">CHI</a>) 2017, <a href="https://chi2018.acm.org/">2018</a>
@@ -61,7 +61,7 @@ permalink: /activities/
 </ul>
 <br>
 
-<h2 class="western">Volunteering</h2>
+<h2>Volunteering</h2>
 <ul>
 <li>
     CMU’s School of Computer Science’s 2020 Presidential Election’s Voting Study Committee (2020)
@@ -78,7 +78,7 @@ permalink: /activities/
 </ul>
 <br>
 
-<h2 class="western">Membership</h2>
+<h2>Membership</h2>
 <ul>
 <li>Association for Computing Machinery (ACM) </li>
 <li>Special Interest Group on Computer-Human Interaction (ACM SIGCHI)</li>

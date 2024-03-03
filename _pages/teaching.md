@@ -11,6 +11,9 @@ author_profile: true
 
 <table>
 <tr>
+  <td colspan="3" style="font-size: 0.9em; color:#fa7369;">(G) Graduate level; (U) Undergraduate level; (AY) Academic year; (MTI) Mean teaching index.</td>
+</tr>
+<tr>
   <th colspan="2"><b>Instructor</b></th>
   <th><b>Nanyang Technological University, Singapore.</b></th> 
 </tr>
@@ -69,7 +72,4 @@ author_profile: true
   <td>Operating Systems (U)</td>
 </tr>
 <tr><td colspan="3"><br></td></tr>
-<tr>
-  <td colspan="3" style="font-size: 0.9em; color:#f44336;">(G) Graduate level; (U) Undergraduate level; (AY) Academic year; (MTI) Mean teaching index.</td>
-</tr>
 </table>

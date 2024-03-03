@@ -19,25 +19,25 @@ For a complete list, refer to my <a href="https://scholar.google.com/citations?u
 <ol>
 <li>
 <p style="text-align: justify">
-Pe-Than, E.P.P., Nolte, A., Filippova, A., Bird, C., Scallen, S., & Herbsleb, J.D. (2022). Corporate hackathons, how and why? A multiple case study of motivation, projects proposal and selection, goal setting, coordination, and outcomes. <i>Human–Computer Interaction, 37</i>, 281–313. (<a href="https://doi.org/10.1080/07370024.2020.1760869">doi</a> | <a href="https://epppt.github.io/files/Than_HCI_2020.pdf">pdf</a>)
+Pe-Than, E.P.P., Nolte, A., Filippova, A., Bird, C., Scallen, S., & Herbsleb, J.D. (2022). Corporate hackathons, How and Why? A Multiple Case Study of Motivation, Projects Proposal and Selection, Goal Setting, Coordination, and Outcomes. <i>Human–Computer Interaction, 37</i>, 281–313. Taylor & Francis. (<a href="https://doi.org/10.1080/07370024.2020.1760869">doi</a> | <a href="https://epppt.github.io/files/Than_HCI_2020.pdf">pdf</a>)
 </p>
 </li>
 
 <li>
 <p style="text-align: justify">
-Pe-Than, E.P.P., Dabbish, L., and Herbsleb, J.D. (2021). Open Collaborative Writing: Investigation of the Fork-and-Pull Model. In <i>Proceedings of the ACM on Human Computer Interaction, 5 </i>(CSCW1), Article 137 (April 2021), pp. 1–33. (<a href="https://doi.org/10.1145/3449211">doi</a> | <a href="https://epppt.github.io/files/pe-than_CSCW2021.pdf">pdf</a>)
+Pe-Than, E.P.P., Dabbish, L., and Herbsleb, J.D. (2021). Open Collaborative Writing: Investigation of the Fork-and-Pull Model. In <i>Proceedings of the ACM on Human Computer Interaction, 5 </i>(CSCW1), Article 137 (April 2021), 1–33. ACM. (<a href="https://doi.org/10.1145/3449211">doi</a> | <a href="https://epppt.github.io/files/pe-than_CSCW2021.pdf">pdf</a>)
 </p>
 </li>
 
 <li>
 <p style="text-align: justify">
-Pe-Than, E.P.P., Nolte, A., Filippova, A., Bird, C., Scallen, S., and Herbsleb, J.D. (2018). Designing Corporate Hackathons with a Purpose. <i>IEEE Software, 36</i> (1), 15–22. (<a href="https://doi.org/10.1109/MS.2018.290110547">doi</a> | <a href="https://epppt.github.io/files/Pe-Than-ieeesw-2018.pdf">pdf</a>) <span style="color: #f44336; font-family:Oswald;">(Runner-up for the 2019 Best Paper Award by IEEE Computer Society Publication Board)</span>
+Pe-Than, E.P.P., Nolte, A., Filippova, A., Bird, C., Scallen, S., and Herbsleb, J.D. (2018). Designing Corporate Hackathons with a Purpose. <i>IEEE Software, 36</i> (1), 15–22. IEEE Computer Society. (<a href="https://doi.org/10.1109/MS.2018.290110547">doi</a> | <a href="https://epppt.github.io/files/Pe-Than-ieeesw-2018.pdf">pdf</a>) <span style="color: #f44336; font-family:Oswald;"><b>(Runner-up for the 2019 Best Paper Award by IEEE Computer Society Publication Board)</b></span>
 </p>
 </li>
 
 <li>
 <p style="text-align: justify">
-Nolte, A., Pe-Than, E.P.P., Filippova, A., Bird, C., Scallen, S., and Herbsleb, J.D. (2018). You Hacked and Now What?: - Exploring Outcomes of a Corporate Hackathon. In <i>Proceedings of the ACM on Human Computer Interaction, 2 </i>(CSCW’18), Article 129, 23 pages. (<a href="https://doi.org/10.1145/3274398">doi</a> | <a href="https://epppt.github.io/files/CSCW-2018.pdf">pdf</a>)
+Nolte, A., Pe-Than, E.P.P., Filippova, A., Bird, C., Scallen, S., and Herbsleb, J.D. (2018). You Hacked and Now What?: - Exploring Outcomes of a Corporate Hackathon. In <i>Proceedings of the ACM on Human Computer Interaction, 2 </i>(CSCW’18), Article 129, 23 pages. ACM. (<a href="https://doi.org/10.1145/3274398">doi</a> | <a href="https://epppt.github.io/files/CSCW-2018.pdf">pdf</a>)
 </p>
 </li>
 
@@ -56,7 +56,7 @@ Pe-Than, E. P. P., Goh, D. H-L, and Lee, C.S. (2015) A typology of human computa
 -->
 <li>
 <p style="text-align: justify">
-Pe-Than, E.P.P., Goh, D.H-L, and Lee, C.S. (2014). Making work fun: Investigating antecedents of perceived enjoyment in human computation games for information sharing. <i>Computers in Human Behavior, 39 </i>(C), 88–99. (<a href="https://doi.org/10.1016/j.chb.2014.06.023">doi</a> | <a href="https://epppt.github.io/files/CHB-2014.pdf">pdf</a>)
+Pe-Than, E.P.P., Goh, D.H-L, and Lee, C.S. (2014). Making work fun: Investigating Antecedents of Perceived Enjoyment in Human Computation Games for Information Sharing. <i>Computers in Human Behavior, 39 </i>(C), 88–99. Elsevier. (<a href="https://doi.org/10.1016/j.chb.2014.06.023">doi</a> | <a href="https://epppt.github.io/files/CHB-2014.pdf">pdf</a>)
 </p>
 </li>
 
@@ -73,25 +73,25 @@ Goh, D. H-L, Pe-Than, E. P. P., and Lee, C. S. (2017). Perceptions of virtual re
 <ol start="6">
 <li>
 <p style="text-align: justify">
-Pe-Than, E.P.P. and Herbsleb, J.D. (2019). Understanding Hackathons for Science: Collaboration, Affordances, and Outcomes. In: <i>Taylor, N., Christian-Lamb, C., Martin, M., Nardi, B. (eds) Information in Contemporary Society. iConference 2019. Lecture Notes in Computer Science, vol 11420</i>, pp. 27–37. Springer, Cham. (<a href="https://doi.org/10.1007/978-3-030-15742-5_3">doi</a> | <a href="https://epppt.github.io/files/iConference-2019.pdf">pdf</a>)
+Pe-Than, E.P.P. and Herbsleb, J.D. (2019). Understanding Hackathons for Science: Collaboration, Affordances, and Outcomes. In: <i>Taylor, N., Christian-Lamb, C., Martin, M., Nardi, B. (eds) Information in Contemporary Society (iConference 2019),   Lecture Notes in Computer Science, vol 11420</i>, pp. 27–37. Springer, Cham. (<a href="https://doi.org/10.1007/978-3-030-15742-5_3">doi</a> | <a href="https://epppt.github.io/files/iConference-2019.pdf">pdf</a>)
 </p>
 </li>
 
 <li>
 <p style="text-align: justify">
-Pe-Than, E.P.P., Dabbish, L., and Herbsleb, J.D. (2018). Collaborative Writing on GitHub: A Case Study of a Book Project. In <i>Companion of the 2018 ACM Conference on Computer Supported Cooperative Work and Social Computing (CSCW’18)</i>, pp. 305–308. (<a href="https://doi.org/10.1145/3272973.3274083">doi</a> | <a href="https://epppt.github.io/files/CSCW-abstract-2018.pdf">pdf</a> | <a href="https://epppt.github.io/files/pethan-poster-cscw2018.pdf">poster</a>)
+Pe-Than, E.P.P., Dabbish, L., and Herbsleb, J.D. (2018). Collaborative Writing on GitHub: A Case Study of a Book Project. In <i>Companion of the 2018 ACM Conference on Computer Supported Cooperative Work and Social Computing (CSCW ’18 Companion)</i>, pp. 305–308. ACM, New York, NY, USA. (<a href="https://doi.org/10.1145/3272973.3274083">doi</a> | <a href="https://epppt.github.io/files/CSCW-abstract-2018.pdf">pdf</a> | <a href="https://epppt.github.io/files/pethan-poster-cscw2018.pdf">poster</a>)
 </p>
 </li>
 
 <li>
 <p style="text-align: justify">
-Pe-Than, E.P.P., Herbsleb, J.D., Nolte, A., Gerber, E., Fiore-Gartland, B., Chapman, B., Moser, A., and Wilkins-Diehr, N. (2018). The 2nd Workshop on Hacking and Making at Time-Bounded Events: Current Trends and Next Steps in Research and Event Design. In <i>Extended Abstracts of the 2018 CHI Conference on Human Factors in Computing Systems (CHI EA’18)</i>, paper W35, 8 pages. (<a href="https://doi.org/10.1145/3170427.3170615">doi</a> | <a href="https://epppt.github.io/files/CHI-workshop-2018.pdf">pdf</a> | <a href="https://epppt.github.io/hackathon-workshop-2018/">website</a>)
+Pe-Than, E.P.P., Herbsleb, J.D., Nolte, A., Gerber, E., Fiore-Gartland, B., Chapman, B., Moser, A., and Wilkins-Diehr, N. (2018). The 2nd Workshop on Hacking and Making at Time-Bounded Events: Current Trends and Next Steps in Research and Event Design. In <i>Extended Abstracts of the 2018 CHI Conference on Human Factors in Computing Systems (CHI EA ’18)</i>, paper W35, 8 pages. ACM, New York, NY, USA. (<a href="https://doi.org/10.1145/3170427.3170615">doi</a> | <a href="https://epppt.github.io/files/CHI-workshop-2018.pdf">pdf</a> | <a href="https://epppt.github.io/hackathon-workshop-2018/">website</a>)
 </p>
 </li>
 
 <li>
 <p style="text-align: justify">
-Pe-Than, E.P.P., Goh, D.HL., Lee, C.S. (2012). Enjoyment of a Mobile Information Sharing Game: Perspectives from Needs Satisfaction and Information Quality. In: <i>Chen, HH., Chowdhury, G. (eds) The Outreach of Digital Libraries: A Globalized Resource Network. ICADL 2012. Lecture Notes in Computer Science, vol 7634</i>, pp 126–135. Springer, Berlin, Heidelberg. (<a href="https://doi.org/10.1007/978-3-642-34752-8_16">doi</a> | pdf)
+Pe-Than, E.P.P., Goh, D.HL., Lee, C.S. (2012). Enjoyment of a Mobile Information Sharing Game: Perspectives from Needs Satisfaction and Information Quality. In: <i>Chen, HH., Chowdhury, G. (eds) The Outreach of Digital Libraries: A Globalized Resource Network (ICADL 2012), Lecture Notes in Computer Science, vol 7634</i>, pp. 126–135. Springer, Berlin, Heidelberg. (<a href="https://doi.org/10.1007/978-3-642-34752-8_16">doi</a> | pdf)
 </p>
 </li>
 </ol>
@@ -109,13 +109,13 @@ Pe-Than, E.P.P., and Nolte, A. (2018). The 2nd Workshop on Hacking and Making at
 <ol start="11">
 <li>
 <p style="text-align: justify">
-Pe-Than, E.P.P., Dabbish, L., and Herbsleb, J.D. (2019). Collaborative Writing at Scale: A Case Study of Two Open-Text Projects Done on GitHub. Presented at <i>the annual meeting of Human Computer Interaction Consortium (HCIC'19): The Future of Work</i>, June 23–27, Pajaro Dunes, Watsonville, CA, USA. (<a href="http://epppt.github.io/files/HCIC-poster-2019.pdf">pdf</a> | <a href="https://hcic.org/about/">website</a>)
+Pe-Than, E.P.P., Dabbish, L., and Herbsleb, J.D. (2019). Collaborative Writing at Scale: A Case Study of Two Open-Text Projects Done on GitHub. Presented at <i>the annual meeting of Human Computer Interaction Consortium (HCIC '19): The Future of Work</i>, June 23–27, Pajaro Dunes, Watsonville, CA, USA. (<a href="http://epppt.github.io/files/HCIC-poster-2019.pdf">pdf</a> | <a href="https://hcic.org/about/">website</a>)
 </p>
 </li>
 
 <li>
 <p style="text-align: justify">
-Pe-Than, E.P.P., Dabbish, L., and Herbsleb, J.D. (2019). Collaborative Writing at Scale: A Case Study of Two Open-Text Projects Done on GitHub. Presented at <i>the 7th ACM Conference on Collective Intelligence 2019 (CI'19)</i>, June 13–14, Pittsburgh, PA, USA. (<a href="https://ci.acm.org/2019/assets/proceedings/CI_2019_paper_65.pdf">url</a> | <a href="http://epppt.github.io/files/CI-poster-2019.pdf">pdf</a> | <a href="https://ci.acm.org/2019/#/">website</a>)
+Pe-Than, E.P.P., Dabbish, L., and Herbsleb, J.D. (2019). Collaborative Writing at Scale: A Case Study of Two Open-Text Projects Done on GitHub. Presented at <i>the 7th ACM Conference on Collective Intelligence 2019 (CI '19)</i>, June 13–14, Pittsburgh, PA, USA. (<a href="https://ci.acm.org/2019/assets/proceedings/CI_2019_paper_65.pdf">url</a> | <a href="http://epppt.github.io/files/CI-poster-2019.pdf">pdf</a> | <a href="https://ci.acm.org/2019/#/">website</a>)
 </p>
 </li>
 

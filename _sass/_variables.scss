@@ -65,10 +65,12 @@ $success-color              : #62c462;
 $warning-color              : #f89406;
 $danger-color               : #ee5f5b;
 $info-color                 : #52adc8;
-$sustainable-color          : #4285F4;
-$lk-color                   : #63b363; //#6b8e23;
-//$olive-color                : #6b8e23;//#808000;
+$sustainable-color          : #fa7369; //#f44336; //#4285F4; //#fa7369;
+$lk-color                   : #6aa84f; //#6b8e23; 63b363;
+$olive-color                : #808000; //#6b8e23;
 //$my-color                   : #f37021;
+$page-title-color           : #38761d;
+$heading-2-color            : mix(#fff, $page-title-color, 20%);
 
 /* brands */
 $behance-color              : #1769FF;
@@ -95,7 +97,7 @@ $reddit-color               : #ff4500;
 
 
 /* links */
-$link-color                 : $lk-color;
+$link-color                 : $lk-color ;
 $link-color-hover           : mix(#000, $lk-color, 25%);
 $link-color-visited         : mix(#fff, $lk-color, 25%);
 $masthead-link-color        : $primary-color;
