@@ -31,7 +31,7 @@ Pe-Than, E.P.P., Dabbish, L., and Herbsleb, J.D. (2021). Open Collaborative Writ
 
 <li>
 <p style="text-align: justify">
-Pe-Than, E.P.P., Nolte, A., Filippova, A., Bird, C., Scallen, S., and Herbsleb, J.D. (2018). Designing Corporate Hackathons with a Purpose. <i>IEEE Software, 36</i> (1), 15–22. (<a href="https://doi.org/10.1109/MS.2018.290110547">doi</a> | <a href="https://epppt.github.io/files/Pe-Than-ieeesw-2018.pdf">pdf</a>) <span style="color: red; font-family:Oswald;">(Runner-up for the 2019 Best Paper Award by IEEE Computer Society Publication Board)</span>
+Pe-Than, E.P.P., Nolte, A., Filippova, A., Bird, C., Scallen, S., and Herbsleb, J.D. (2018). Designing Corporate Hackathons with a Purpose. <i>IEEE Software, 36</i> (1), 15–22. (<a href="https://doi.org/10.1109/MS.2018.290110547">doi</a> | <a href="https://epppt.github.io/files/Pe-Than-ieeesw-2018.pdf">pdf</a>) <span style="color: #f44336; font-family:Oswald;">(Runner-up for the 2019 Best Paper Award by IEEE Computer Society Publication Board)</span>
 </p>
 </li>
 

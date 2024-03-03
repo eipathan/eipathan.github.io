@@ -70,6 +70,6 @@ author_profile: true
 </tr>
 <tr><td colspan="3"><br></td></tr>
 <tr>
-  <td colspan="3" style="font-size: 0.9em; color:#008000;">(G) Graduate level; (U) Undergraduate level; (AY) Academic year; (MTI) Mean teaching index.</td>
+  <td colspan="3" style="font-size: 0.9em; color:#f44336;">(G) Graduate level; (U) Undergraduate level; (AY) Academic year; (MTI) Mean teaching index.</td>
 </tr>
 </table>
