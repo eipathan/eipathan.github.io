@@ -81,5 +81,5 @@ permalink: /activities/
 <h2 class="western">Membership</h2>
 <ul>
 <li>Association for Computing Machinery (ACM) </li>
-<li>Member, Special Interest Group on Computer-Human Interaction (ACM SIGCHI)</li>
+<li>Special Interest Group on Computer-Human Interaction (ACM SIGCHI)</li>
 </ul>
