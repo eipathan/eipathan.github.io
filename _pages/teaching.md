@@ -5,21 +5,17 @@ author_profile: true
 ---
 
 {% include base_path %}
-
 <p style="text-align: justify">
   I have taught the courses at undergraduate and graudate levels at the Nanyang Technological University, Signapore and the University of Computer Studies, Yangon, Myanmar. 
 </p>
 
 <table>
 <tr>
-  <td colspan="3" style="font-size: 0.80em; color:#cc0000;">(G) Graduate level; (U) Undergraduate level; (AY) Academic year; (MTI) Mean teaching index.</td>
-</tr>
-<tr>
   <th colspan="2"><b>Instructor</b></th>
   <th><b>Nanyang Technological University, Singapore.</b></th> 
 </tr>
 <tr>
-  <td>AY 2016/2017</td>
+  <td>AY2016/2017</td>
   <td>CI6221</td>
   <td>Information Visualization (G; MTI 80.83)</td>
 </tr>
@@ -33,7 +29,7 @@ author_profile: true
   <td>IN9008</td>
   <td>Digital Social Games for Organizations (U; MTI 71.86)</td>
 </tr>
-<tr><td colspan="3"></td></tr>
+<tr><td colspan="3"><hr></td></tr>
 <tr>
   <th colspan="2"><b>Teaching Assistant</b></th>
   <th><b>Nanyang Technological University, Singapore.</b></th>
@@ -60,7 +56,7 @@ author_profile: true
   <td>H6723</td>
   <td>Business and Management Sources & Services (G)</td>
 </tr>
-<tr><td colspan="3"></td></tr>
+<tr><td colspan="3"><hr></td></tr>
 <tr>
   <th colspan="2"><b>Trainee Tutor</b></th>
   <th><b>University of Computer Studies, Yangon, Myanmar.</b></th>
@@ -71,5 +67,9 @@ author_profile: true
 </tr>
 <tr>
   <td>Operating Systems (U)</td>
+</tr>
+<tr><td colspan="3"><br></td></tr>
+<tr>
+  <td colspan="3" style="font-size: 0.9em; color:#008000;">(G) Graduate level; (U) Undergraduate level; (AY) Academic year; (MTI) Mean teaching index.</td>
 </tr>
 </table>
