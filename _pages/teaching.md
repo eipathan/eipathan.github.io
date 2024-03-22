@@ -10,16 +10,14 @@ author_profile: true
 </p>
 
 <table>
-<tr>
-  <td colspan="3" style="font-size: 0.9em; color:#fa7369;">(G) Graduate level; (U) Undergraduate level; (AY) Academic year; (MTI) Mean teaching index.</td>
-</tr>
+<tr><td colspan="3"><hr></td></tr>
 <tr>
   <th colspan="2"><b>Instructor</b></th>
   <th><b>Nanyang Technological University, Singapore.</b></th> 
 </tr>
 <tr>
   <td>AY2016/2017</td>
-  <td>CI6221</td>
+  <td style="align:left">CI6221</td>
   <td>Information Visualization (G; MTI 80.83)</td>
 </tr>
 <tr>
@@ -43,7 +41,7 @@ author_profile: true
   <td>Fundamentals of Research (U; MTI = 86.66)</td>
 </tr>
 <tr>
-  <td>IN9006</td>
+  <td style="text-align:left">IN9006</td>
   <td>Social Computing and Applications (G)</td>
 </tr>
 <tr>
@@ -71,5 +69,8 @@ author_profile: true
 <tr>
   <td>Operating Systems (U)</td>
 </tr>
-<tr><td colspan="3"><br></td></tr>
+<tr><td colspan="3"><hr></td></tr>
+<tr>
+  <td colspan="3" style="font-size: 0.9em; color:#f44336;">(G) Graduate level; (U) Undergraduate level; (AY) Academic year; (MTI) Mean teaching index.</td>
+</tr>
 </table>

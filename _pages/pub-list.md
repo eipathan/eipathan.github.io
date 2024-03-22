@@ -7,9 +7,9 @@ permalink: /pub-list/
 
 {% include base_path %}
 
-<head>
+<!--<head>
 <link href='https://fonts.googleapis.com/css?family=Oswald' rel='stylesheet'>
-</head>
+</head>-->
 
 <p>
 For a complete list, refer to my <a href="https://scholar.google.com/citations?user=U7HARQEAAAAJ&hl=en">Google Scholar</a>, <a href="https://www.researchgate.net/profile/Ei_Pa_Pa_Pe_Than">Research Gate</a>, and my <a href="https://epppt.github.io/files/cv-epppt.pdf">CV</a>.
@@ -31,7 +31,7 @@ Pe-Than, E.P.P., Dabbish, L., and Herbsleb, J.D. (2021). Open Collaborative Writ
 
 <li>
 <p style="text-align: justify">
-Pe-Than, E.P.P., Nolte, A., Filippova, A., Bird, C., Scallen, S., and Herbsleb, J.D. (2018). Designing Corporate Hackathons with a Purpose. <i>IEEE Software, 36</i> (1), 15–22. IEEE Computer Society. (<a href="https://doi.org/10.1109/MS.2018.290110547">doi</a> | <a href="https://epppt.github.io/files/Pe-Than-ieeesw-2018.pdf">pdf</a>) <span style="color: #f44336; font-family:Oswald;"><b>(Runner-up for the 2019 Best Paper Award by IEEE Computer Society Publication Board)</b></span>
+Pe-Than, E.P.P., Nolte, A., Filippova, A., Bird, C., Scallen, S., and Herbsleb, J.D. (2018). Designing Corporate Hackathons with a Purpose. <i>IEEE Software, 36</i> (1), 15–22. IEEE Computer Society. (<a href="https://doi.org/10.1109/MS.2018.290110547">doi</a> | <a href="https://epppt.github.io/files/Pe-Than-ieeesw-2018.pdf">pdf</a>) <span style="color: #f44336; font-family:Oswald;"><b>(Runner-up for the 2019 Best Paper Award)</b></span>
 </p>
 </li>
 

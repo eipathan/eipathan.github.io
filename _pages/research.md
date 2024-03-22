@@ -12,7 +12,7 @@ permalink: /research/
 </head>
 
 <p style="text-align: justify">
-My research aims at contributing to the <span style="color:#38761d;"><b>theory of coordination</b></span>, with a particular focus on developing strategies for the effective and efficient dissemination and coordination of work contributed by individuals, teams or crowds in an open connected digital networks of network through an empirical mixed-methods case study research approach, employing ethnography (interviews and observations), survey, and archival analysis (collection and analysis of logs and trace data with Python, R, and Dedoose), and a combination of all of these methods whenever relevant. My work to date has taken place in contexts including education, scientific communities, open source and commerical software businesses, and may be applicable to other contexts such as healthcare.
+My research aims at contributing to the theory of coordination, with a particular focus on developing strategies for the effective and efficient dissemination and coordination of work contributed by individuals, teams or crowds in an open connected digital networks of network through an empirical mixed-methods case study research approach, employing ethnography (interviews and observations), survey, and archival analysis (collection and analysis of logs and trace data with Python, R, and Dedoose), and a combination of all of these methods whenever relevant. My work to date has taken place in contexts including education, scientific communities, open source and commerical software businesses, and can be applied in other contexts such as healthcare.
 <!-- draft
 I therefore study how the events are designed, how teams work together, and how technology support the events and the teams in contexts including education, scientific communities, open source and commerical software businesses.
 Work in such environment is performed by individuals, teams, or crowds, and may either take a form of “adapting” digital artifacts for independent missions or “perfecting” the original digital artifact.
@@ -20,14 +20,27 @@ Work in such environment is performed by individuals, teams, or crowds, and may 
 </p>
 
 <p style="text-align: justify">
-Recently, much of my work has focused on large scale coordination in the development of software and non-software artifacts in, </p>
+Below are my past and ongoing projects: <br>
+1) <a href="#hackathons"><!--<span style="color:#f44336">-->Coordination in time-bounded events or hackathons for software development<!--</span>--></a><br>
+2) <a href="#collaborativewriting">Collaborative writing in an open digital networked environment (GitHub.com)</a><br>
+3) <a href="#hackathons">User-centered design of human computation games for information sharing</a><br>
+<!--Recently, much of my work has focused on large scale coordination in the development of software and non-software artifacts in, -->
+</p>
 
-<p style="text-align:justify; padding-left:30pt; padding-right:30pt;"><span style="color:#38761d;"><b>Time-bounded events (known as hackathons) for software development</b></span> where small teams work over a specified period to complete a project of interest. My work particularly looks into how such events are organized, what the hackathon teams do, and what outcomes they produce, observing the pre-existing and newly-formed teams in the <a href="https://www.microsoft.com/en-us/garage/blog/tag/2017-hackathon/">2017 Micorsoft OneWeek Hackathon</a>, and co-organizing and studying a series of hackathons with NASA's <a href="https://hubblesite.org/home">Hubble Space Telescope</a> team at the <a href="https://www.stsci.edu/home">Space Telescope Science Institute (STScI)</a>. Based on our experience of organizing and studying multiple hackathons, we developed a <a href="https://hackathon-planning-kit.org/">hackathon planning kit</a> for potential hackathon organizers.</p>
+<session id="hackathons">
+<p style="text-align:justify;"><b>Coordination in time-bounded events or hackathons for software development.</b> In hackathons, small teams work together over a specified period to complete a project of interest. This work examines how such events are organized, what the hackathon teams do, and what outcomes they produce, observing the pre-existing and newly-formed teams in the <a href="https://www.microsoft.com/en-us/garage/blog/tag/2017-hackathon/">2017 Micorsoft OneWeek Hackathon</a>, and co-organizing and studying four hack days with NASA's <a href="https://hubblesite.org/home">Hubble Space Telescope</a> team at the <a href="https://www.stsci.edu/home">Space Telescope Science Institute (STScI)</a>. Based on our experience of organizing and studying multiple hackathons, we developed a <a href="https://hackathon-planning-kit.org/">hackathon planning kit</a> for potential hackathon organizers.</p>
+</session>
 
-<p style="text-align:justify; padding-left:30pt; padding-right:30pt;"><span style="color:#38761d;"><b>Open collaboraitve writing projects in GitHub.com</b></span> where I explore how the widely used "fork-and-pull" model of distributed version management system in software development supports coordination and public contribution in collaborative writing through a case study of two open-text projects (or GitHub repositories): a mathematics textbook on <a href="https://github.com/HoTT/book">homotopy type theory (HoTT)</a> and <a href="https://github.com/18F/open-source-policy">open source policies by 18F</a>, a branch of federal agency of the United States Government, and reconstruct how text artifacts were created.</p>
+<session id="collaborativewriting">
+<p style="text-align:justify;"><b>Collaborative writing in an open digital networked environment (GitHub.com).</b> In this project, I explore how the widely used "fork-and-pull" model of distributed version management system in software development supports coordination and public contributions in collaborative writing through a dual case study of two open-text projects (or GitHub repositories): a mathematics textbook on <a href="https://github.com/HoTT/book">homotopy type theory (HoTT)</a> and <a href="https://github.com/18F/open-source-policy">open source policies by 18F</a>, a branch of federal agency of the United States Government, and reconstruct how text artifacts were created.</p>
+<session>
+
+<!--<session id="">
+<p style="text-align:justify;"></p>
+</session>-->
 
 <p style="text-align: justify">
-For more details about specific work, check out the <a href="https://epppt.github.io/pub-list">list of publications</a>.
+For more details about specific work, check out the <a href="https://epppt.github.io/pub-list"><span style="color:#f44336;">list of publications</span></a>.
 </p>
 
 <!--

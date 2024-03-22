@@ -13,7 +13,7 @@ I completed my postdoctoral research fellowship in 2020 at the <a href="https://
 </p>
 
 <p style="text-align: justify">
-My research focuses on the area of collaboration and coordination, and I investigate how these actions unfolds in time-bounded events (e.g., hackathons organized for various purposes in contexts ranging from education, scientific communities, and software business), <i>and</i> an open digital network (e.g., GitHub.com where individuals or teams of developers collectively produce digital software or non-software artifacts), and devise practises to design the future coordinated work.
+My research focuses on the area of <b>collaboration and coordination</b>, and I investigate how these behaviors unfolds in, for example, time-bounded events (e.g., hackathons organized for various purposes in contexts ranging from education, scientific communities, and software business), <i>and</i> an open digital network (e.g., GitHub.com where individuals or teams of developers collectively produce software or non-software artifacts), and design interventions for better outcomes and devise new strategies for future coordinated work.
 </p>
 
 <p style="text-align: justify">
@@ -21,7 +21,7 @@ My work at CMU is supported by the <a href="https://www.nsf.gov/">U.S. National 
 </p>
 
 <p>
-See my <a href="https://epppt.github.io/files/cv-epppt.pdf">CV</a> for details.
+See my <a href="https://epppt.github.io/files/cv-epppt.pdf"><span style="color:#f44336"><b>CV</b></span></a> for details.
 </p>
 
 <!--

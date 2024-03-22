@@ -55,6 +55,7 @@ $lighter-gray               : mix(#fff, $gray, 90%);
 
 $body-color                 : #fff;
 $background-color           : #fff;
+$nav-background-color       : #e1f8d8;
 $code-background-color      : #fafafa;
 $code-background-color-dark : $light-gray;
 $text-color                 : $dark-gray;
@@ -68,9 +69,11 @@ $info-color                 : #52adc8;
 $sustainable-color          : #fa7369; //#f44336; //#4285F4; //#fa7369;
 $lk-color                   : #6aa84f; //#6b8e23; 63b363;
 $olive-color                : #808000; //#6b8e23;
-//$my-color                   : #f37021;
-$page-title-color           : #38761d;
+$lk-olive-color             : #a6a613;
+$my-color                   : #487535; // #BDD42F; // #4285F4;
+$page-title-color           : #6aa84f; //#38761d;
 $heading-2-color            : mix(#fff, $page-title-color, 20%);
+$nav-menu-color             : #487535;
 
 /* brands */
 $behance-color              : #1769FF;
@@ -97,7 +100,7 @@ $reddit-color               : #ff4500;
 
 
 /* links */
-$link-color                 : $lk-color ;
+$link-color                 : $lk-color;
 $link-color-hover           : mix(#000, $lk-color, 25%);
 $link-color-visited         : mix(#fff, $lk-color, 25%);
 $masthead-link-color        : $primary-color;
