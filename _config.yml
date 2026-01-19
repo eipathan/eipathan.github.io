@@ -11,13 +11,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Ei Pa Pa Pe Than"
+title                    : "Eipapa Pe Than"
 title_separator          : "-"
-name                     : &name "Ei Pa Pa Pe Than"
+name                     : &name "Eipapa Pe Than"
 description              : &description "Former postdoctoral fellow of the Institute for Software Research at Carnegie Mellon's School of Computer Science"
-url                      : "https://epppt.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://eipathan.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "epppt/epppt.github.io"
+repository               : "eipathan/eipathan.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -83,8 +83,8 @@ social:
 
 # Site Author
 author:
-  name             : "Ei Pa Pa Pe Than"
-  avatar           : "eipa.jpg"
+  name             : "Eipapa Pe Than"
+  avatar           : "profile.png"
   bio              : "Looking for a research scientist or equivalent position."
   location         : "Yangon, Myanmar"
   employer         :
@@ -92,14 +92,14 @@ author:
   googlescholar    : "https://scholar.google.com/citations?user=U7HARQEAAAAJ&hl=en"
   email            : "pethan.eipapa@gmail.com"
   researchgate     : "https://www.researchgate.net/profile/Ei_Pa_Pa_Pe_Than"
-  uri              : "https://epppt.github.io/"
+  uri              : "https://eipathan.github.io/"
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
   facebook         :
   foursquare       :
-  github           : "epppt"
+  github           : "eipathan"
   google_plus      :
   keybase          :
   instagram        :

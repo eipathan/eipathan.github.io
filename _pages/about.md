@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hi, I'm Ei Pa Pa Pe Than."
+title: "Hi, I'm Eipapa Pe Than."
 excerpt: "About me"
 author_profile: true
 redirect_from:
@@ -37,7 +37,7 @@ Prior to joining CMU, I was a research associate and adjunct lecturer from 2015 
 <!-- Central to this research effort is the socio-technical challenge of understanding how coordination unfolds in both open and close platforms and in settings ranging from scientific, open source to commercial, from local to global, from collocated to distributed, from physical or digital,  from centralized to decentralized to hybrid, .... This multidisciplinary research topic overlaps the fields of philosophy, mathematics, computer science, software engineering, machine learning, psychology, sociology and economics, and has many applications in areas from astronomy, medicine, robotics, to open collaborative writing.-->
 
 <!--
-<p>If you're interested in <b>my new work</b>, read <a href="https://epppt.github.io/publications">my most recent papers</a>. You can also reach out to me at <a href="mailto:pethan.eipapa [at] gmail.com">pethan.eipapa [at] gmail.com</a> for more questions about my new work.</p>
+<p>If you're interested in <b>my new work</b>, read <a href="https://eipathan.github.io/publications">my most recent papers</a>. You can also reach out to me at <a href="mailto:pethan.eipapa [at] gmail.com">pethan.eipapa [at] gmail.com</a> for more questions about my new work.</p>
 -->
 
 <!--<p style="text-align: justify"><u>CURRENT RESEARCH PROJECTS</u>.
@@ -67,4 +67,4 @@ Prior to joining CMU, I was a research associate and adjunct lecturer from 2015 
 <p style="text-align: justify"><u><b>EXPERIENCE</b></u>. Before CMU, I was a research associate and adjunct lecturer at NTU's WKWSCI where I taught information visualization and managing information systems to undergraduates and graduates, which was preceded by a 13-month job of application consultant at NCS, where I involved in the maintenance of a web-based outpatient administrative system, focusing particularly on billing and accounting module, developed using Microsoft C#, .NET framework and SQL server, and for the development of a new tool soliciting patient feedback and complaints. I also spent 18 months at the Software Department in UCSY as a trainee tutor where I taught the undergraduates fundamentals of data structures and a few lectures on operating systems.</p>
 -->
 
-<!--<p style="text-align: justify"><u>NEW WORK</u>. If you're interested in <b>my new work</b>, read <a href="https://eipapa.github.io/publications">my most recent papers</a>. You can also reach out to me at <b>eipa@cmu.edu</b> for more questions about my new work.</p>-->
+<!--<p style="text-align: justify"><u>NEW WORK</u>. If you're interested in <b>my new work</b>, read <a href="https://eipathan.github.io/publications">my most recent papers</a>. You can also reach out to me at <b>eipa@cmu.edu</b> for more questions about my new work.</p>-->
