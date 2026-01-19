@@ -21,7 +21,7 @@ My work at CMU is supported by the <a href="https://www.nsf.gov/">U.S. National 
 </p>
 
 <p>
-See my <a href="https://epppt.github.io/files/cv-epppt.pdf"><span style="color:#f44336"><b>CV</b></span></a> for details.
+See my <a href="https://eipathan.github.io/files/cv-eipathan.pdf"><span style="color:#f44336"><b>CV</b></span></a> for details.
 </p>
 
 <!--

@@ -85,7 +85,7 @@ social:
 author:
   name             : "Eipapa Pe Than"
   avatar           : "profile.png"
-  bio              : "Looking for a research scientist or equivalent position."
+  bio              : # "Looking for a research scientist or equivalent position."
   location         : "Yangon, Myanmar"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
